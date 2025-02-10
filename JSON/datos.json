@@ -1,0 +1,54 @@
+{
+    "datos": [
+      {
+        "nombre": "The Last of Us",
+        "img": "https://pics.filmaffinity.com/the_last_of_us-722385305-mmed.jpg",
+        "autor": "Craig Mazin",
+        "fecha": 2023,
+        "dato1": "HBO"
+      },
+      {
+        "nombre": "Wednesday",
+        "img": "https://pics.filmaffinity.com/wednesday-938002261-mmed.jpg",
+        "autor": "Tim Burton",
+        "fecha": 2022,
+        "dato1": "Netflix"
+      },
+      {
+        "nombre": "House of the Dragon",
+        "img": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-mmed.jpg",
+        "autor": "Miguel Sapochnik",
+        "fecha": 2022,
+        "dato1": "HBO"
+      },
+      {
+        "nombre": "Stranger Things",
+        "img": "https://pics.filmaffinity.com/stranger_things-875025085-mmed.jpg",
+        "autor": "Matt Duffer",
+        "fecha": 2016,
+        "dato1": "Netflix"
+      },
+      {
+        "nombre": "The Bear",
+        "img": "https://pics.filmaffinity.com/the_bear-982511761-mmed.jpg",
+        "autor": "Christopher Storer",
+        "fecha": 2022,
+        "dato1": "Hulu"
+      },
+      {
+        "nombre": "Loki",
+        "img": "https://pics.filmaffinity.com/loki-953858491-mmed.jpg",
+        "autor": "Kate Herron",
+        "fecha": 2021,
+        "dato1": "Disney+"
+      },
+      {
+        "nombre": "The Witcher",
+        "img": "https://pics.filmaffinity.com/the_witcher-737807462-mmed.jpg",
+        "autor": "Lauren Schmidt Hissrich",
+        "fecha": 2019,
+        "dato1": "Netflix"
+      }
+    ]
+  }
+  
