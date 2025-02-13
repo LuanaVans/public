@@ -1,5 +1,5 @@
-<?php
-$empresa ='Museo Dicampus';
+<?php 
+
 require 'bloques/_config.php';
 include 'bloques/_header.php';
 
@@ -13,7 +13,7 @@ debugPrint_r($museo);           // revisamos si $museo tiene datos
 
 
 // recolectamos los datos del formulario
-if(isset($_GET['obra'])){ // si existe obra en el GET
+if(isset($_GET['titulo'])){ // si existe obra en el GET
     $imagen = $_GET['imagen']; // guardamos en $obra lo que venga en el GET obra
     $titulo = $_GET['titulo']; // guardamos en $autor lo que venga en el GET autor
     $autor = $_GET['autor'];
@@ -22,7 +22,7 @@ if(isset($_GET['obra'])){ // si existe obra en el GET
     $tecnica = $_GET['tecnica'];
 
     // agregamos la nueva obra al array museo
-    $museo['obras'][] = array('imagen' => $imagen, 'titulo' => $titulo, 'autor' => $autor, 'anio' => $anio, 'estilo' => $estilo, 'tecnica' => $tecnica);
+    $museo['obras'][] = array('imagen' => $imagen, 'titulo' => $titulo, 'autor' => $autor, 'año' => $anio, 'estilo' => $estilo, 'tecnica' => $tecnica);
 
 
 
@@ -41,22 +41,22 @@ if(isset($_GET['obra'])){ // si existe obra en el GET
 <form action="admin.php"
 method="get">
     <p>Incluya su obra</p>
-<label for="nombre">Imagen:
+<label for="imagen">Imagen:
     <input type="text" id="imagen" name="imagen" placeholder="url">
 </label>
-<label for="email">Título:
+<label for="titulo">Título:
     <input type="text" id="titulo"  name="titulo" placeholder="título">
 </label>
-<label for="mensaje"> Autor:
+<label for="autor"> Autor:
     <input type="text" id="autor"  name="autor" placeholder="autor">
     </label>
-    <label for="nombre">Año:
+    <label for="anio">Año:
     <input type="text" id="anio" name="anio" placeholder="anio">
 </label>
-<label for="email">Estilo:
+<label for="estilo">Estilo:
     <input type="text" id="estilo"  name="estilo" placeholder="estilo">
 </label>
-<label for="mensaje"> Técnica:
+<label for="tecnica"> Técnica:
     <input type="text" id="tecnica"  name="tecnica" placeholder="tecnica">
     </label>
 <button type="submit">Enviar</button>

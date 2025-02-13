@@ -1,52 +1,60 @@
 {
-  "obras": [
-    {
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg/500px-El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg",
-      "titulo": "El Jardín de las Delicias",
-      "autor": "El Bosco",
-      "año": "1490-1510",
-      "estilo": "Renacimiento nórdico",
-      "tecnica": "Óleo sobre tabla"
-    },
-    {
-      "imagen": "https://historiadepinceles.wordpress.com/wp-content/uploads/2012/04/meninas.jpg",
-      "titulo": "Las Meninas",
-      "autor": "Diego Velázquez",
-      "año": "1656",
-      "estilo": "Barroco",
-      "tecnica": "Óleo sobre lienzo"
-    },
-    {
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg/800px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg",
-      "titulo": "El 3 de Mayo en Madrid",
-      "autor": "Francisco de Goya",
-      "año": "1814",
-      "estilo": "Romanticismo",
-      "tecnica": "Óleo sobre lienzo"
-    },
-    {
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Joaquin_Sorolla_-_Paseo_a_la_orillas_del_mar.jpg/500px-Joaquin_Sorolla_-_Paseo_a_la_orillas_del_mar.jpg",
-      "titulo": "Paseo a Orillas del Mar",
-      "autor": "Joaquín Sorolla",
-      "año": "1909",
-      "estilo": "Impresionismo",
-      "tecnica": "Óleo sobre lienzo"
-    },
-    {
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michelangelo_Caravaggio_060.jpg/600px-Michelangelo_Caravaggio_060.jpg",
-      "titulo": "Santa Catalina de Alejandría",
-      "autor": "Caravaggio",
-      "año": "1598-1599",
-      "estilo": "Barroco",
-      "tecnica": "Óleo sobre lienzo"
-    },
-    {
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg/700px-The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
-      "titulo": "El Triunfo de la Muerte",
-      "autor": "Pieter Brueghel el Viejo",
-      "año": "1562",
-      "estilo": "Renacimiento Nórdico",
-      "tecnica": "Óleo sobre tabla"
-    }
-  ]
+    "obras": [
+        {
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg/500px-El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg",
+            "titulo": "El Jardín de las Delicias",
+            "autor": "El Bosco",
+            "año": "1490-1510",
+            "estilo": "Renacimiento nórdico",
+            "tecnica": "Óleo sobre tabla"
+        },
+        {
+            "imagen": "https://historiadepinceles.wordpress.com/wp-content/uploads/2012/04/meninas.jpg",
+            "titulo": "Las Meninas",
+            "autor": "Diego Velázquez",
+            "año": "1656",
+            "estilo": "Barroco",
+            "tecnica": "Óleo sobre lienzo"
+        },
+        {
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg/800px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg",
+            "titulo": "El 3 de Mayo en Madrid",
+            "autor": "Francisco de Goya",
+            "año": "1814",
+            "estilo": "Romanticismo",
+            "tecnica": "Óleo sobre lienzo"
+        },
+        {
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Joaquin_Sorolla_-_Paseo_a_la_orillas_del_mar.jpg/500px-Joaquin_Sorolla_-_Paseo_a_la_orillas_del_mar.jpg",
+            "titulo": "Paseo a Orillas del Mar",
+            "autor": "Joaquín Sorolla",
+            "año": "1909",
+            "estilo": "Impresionismo",
+            "tecnica": "Óleo sobre lienzo"
+        },
+        {
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michelangelo_Caravaggio_060.jpg/600px-Michelangelo_Caravaggio_060.jpg",
+            "titulo": "Santa Catalina de Alejandría",
+            "autor": "Caravaggio",
+            "año": "1598-1599",
+            "estilo": "Barroco",
+            "tecnica": "Óleo sobre lienzo"
+        },
+        {
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg/700px-The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
+            "titulo": "El Triunfo de la Muerte",
+            "autor": "Pieter Brueghel el Viejo",
+            "año": "1562",
+            "estilo": "Renacimiento Nórdico",
+            "tecnica": "Óleo sobre tabla"
+        },
+        {
+            "imagen": "gh",
+            "titulo": "jhg",
+            "autor": "jhgjhg",
+            "año": "jhgjh",
+            "estilo": "gjh",
+            "tecnica": "jhgj"
+        }
+    ]
 }

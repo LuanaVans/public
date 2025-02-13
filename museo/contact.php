@@ -1,6 +1,7 @@
 <?php 
 require 'bloques/_config.php';
 include 'bloques/_header.php'; 
+echo $empresa ='Museo Dicampus';
 ?>
 <p class=""contacto>Contacto</p>
 

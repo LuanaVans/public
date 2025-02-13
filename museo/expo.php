@@ -1,6 +1,7 @@
 <?php 
 require 'bloques/_config.php';
 include 'bloques/_header.php'; 
+$empresa ='Museo Dicampus';
 
 ?>
 <h1>Museo Dicampus</h1>

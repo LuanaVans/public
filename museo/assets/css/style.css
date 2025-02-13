@@ -168,3 +168,6 @@ input[type="text"]:focus, textarea:focus {
     border-color: #7d7e80;
     outline: none; 
 }
+*:hover{
+    outline: 1px red solid;
+}

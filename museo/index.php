@@ -1,6 +1,7 @@
 
 
-<?php 
+<?php $empresa ='Museo Dicampus';
+
 require 'bloques/_config.php';
 include 'bloques/_header.php'; 
 
@@ -31,6 +32,7 @@ foreach ($miArray['obras'] as $miMuseo) {
     <p>{$miMuseo['año']}</p>
     <p>{$miMuseo['estilo']}</p>
     <p>{$miMuseo['tecnica']}</p>
+    <a href='obra.php?obra={$miMuseo['titulo']}'>Ver más</a>
     </div>
     </li>";
 }
