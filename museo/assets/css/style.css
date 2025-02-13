@@ -171,3 +171,33 @@ input[type="text"]:focus, textarea:focus {
 *:hover{
     outline: 1px red solid;
 }
+
+
+
+
+.exposiciones{}
+
+.exposiciones .expo{
+    border:solid grey 1px;
+    display:flex;
+    overflow:hidden;
+    gap:20px;
+    border-radius:10px;
+    margin-bottom:20px;
+    align-items: center;
+}
+
+.exposiciones .expo img{
+    width:150px;
+}
+
+.exposiciones .expo h2,
+.exposiciones .expo p{
+    margin:0;
+    padding:0;
+}
+
+.exposiciones .expo .fecha{
+    color:grey;
+   
+}

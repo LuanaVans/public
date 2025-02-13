@@ -22,7 +22,7 @@ echo '<ul class="galeria">';
 //recorremos el array para mostrar todos los datos
 $miArray=cargarJSON($ruta);
 foreach ($miArray['obras'] as $miMuseo) {
-    echo "<li class='item'>
+    echo "<li class='item'><a href='obra.php?obra={$miMuseo['titulo']}'>
     <img class='imagen' src='{$miMuseo['imagen']}' alt='{$miMuseo['titulo']}'>
     <div class='info'> 
 
@@ -32,7 +32,7 @@ foreach ($miArray['obras'] as $miMuseo) {
     <p>{$miMuseo['año']}</p>
     <p>{$miMuseo['estilo']}</p>
     <p>{$miMuseo['tecnica']}</p>
-    <a href='obra.php?obra={$miMuseo['titulo']}'>Ver más</a>
+    </a>
     </div>
     </li>";
 }
@@ -41,11 +41,12 @@ foreach ($miArray['obras'] as $miMuseo) {
 
     ?>
 <section>
-    <ul class="horarios">Horario>
-    <li> Lunes a Viernes: 10:00 a 20:00</li>
-    <li>Sábados y Domingos: 10:00 a 14:00</li>
-    <li>Festivos: Cerrado</li>
-</ul>
+    <p>Horario</p>  
+    <ul class="horarios">
+        <li> Lunes a Viernes: 10:00 a 20:00</li>
+        <li>Sábados y Domingos: 10:00 a 14:00</li>
+        <li>Festivos: Cerrado</li>
+    </ul>
 </section>
 
 <hr>

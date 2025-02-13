@@ -15,15 +15,15 @@ include 'bloques/_header.php';
 
 
 // obtener que obra hemos cargado GET
-if_file_exists('obra'){
+if(isset($_GET['obra'])){
     $obra = $_GET['obra'];
 }
 
 
 
 
-
 foreach ($miArray['obras'] as $miMuseo) {
+    if($obra == $miMuseo['titulo']){
     echo "
     <img class='imagen' src='{$miMuseo['imagen']}' alt='{$miMuseo['titulo']}'>
     <div class='info'> 
@@ -34,8 +34,8 @@ foreach ($miArray['obras'] as $miMuseo) {
     <p>{$miMuseo['año']}</p>
     <p>{$miMuseo['estilo']}</p>
     <p>{$miMuseo['tecnica']}</p>
-    <a href='obras.php?obras={$miMuseo['titulo']}'>Ver más</a>
     </div>";
+}
 }
 
 

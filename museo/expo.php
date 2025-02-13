@@ -6,6 +6,8 @@ $empresa ='Museo Dicampus';
 ?>
 <h1>Museo Dicampus</h1>
 
+<div class="exposiciones">
+
 <?php
 
 $archivo='./assets/datos/expo.json';
@@ -15,22 +17,27 @@ $museo=cargarJSON($archivo);
 
 //recorremos el array para mostrar todos los datos
 $array=cargarJSON($archivo);
+
+
+
 foreach ($array['exposiciones'] as $miMuseo) 
 {
-   
-    
-echo "<div class='info'> 
+echo "<div class='expo'> 
+<img class='imagen' src='{$miMuseo['imagen']}' alt='{$miMuseo['titulo']}'>
+<div class='fichita'>
     <h2>{$miMuseo['titulo']}</h2>
 
-    <p>{$miMuseo['fecha']}</p>  
-<img class='imagen' src='{$miMuseo['imagen']}' alt='{$miMuseo['titulo']}'>
+    <p class='fecha'>{$miMuseo['fecha']}</p>  
+    </div>
     
-    </div>";
+</div>";
 }
+
    ?>
-<?
-    include 'bloques/_footer.php'; 
-    ?>
+
+</div>
+
+<?   include 'bloques/_footer.php';     ?>
 
 
 

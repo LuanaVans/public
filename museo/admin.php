@@ -1,4 +1,4 @@
-<?php 
+<?php $empresa ='admin';
 
 require 'bloques/_config.php';
 include 'bloques/_header.php';

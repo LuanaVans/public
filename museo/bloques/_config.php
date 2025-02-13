@@ -4,7 +4,7 @@
 
 /**** esto luego pa config.php */
 
-$debug= 1;
+$debug= 0;
 
 function debug($message){
     global$debug;
