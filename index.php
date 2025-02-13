@@ -1,16 +1,16 @@
 <?php
-$datos = [
+$data = [
+    ['Dia 1', '/dia1', 1],
+    ['Dia 2', '/dia2', 1],
+    ['Restaurante', '/restaurante', 1],
+    ['json', '/json', 1],
+    ['GET', '/get', 1],
+    ['Dia 6', '/restaurante2', 1],
+    ['Dia 7', '/dia7', 1],
+    ['Dia 8', '/VIAJES', 1],
+    ['Dia 9', '/cervezapp', 1]
+];
 
-        // Nombre   ,            Ruta ,             activo? 
-            ['Dia 1',           '/dia1' ,           1   ],
-            ['Dia 2',           '/día2',            0   ],
-            ['Restaurante',     '/restaurante',            1   ],
-            ['json',            '/JSON',            1   ],
-            ['GET',             '/GET',             1   ],
-            ['Dia 6 ',          '/restaurante2',            1   ],
-            ['Dia 7',           '/dia7',            1   ],
-            ['Dia 8',           '/dia8',            0   ]
-            ];
 
  echo '<h1>LOS EJERCICIOS DE ELMA</h1>';
  /*
@@ -22,7 +22,7 @@ $datos = [
 echo '</ul>';
 */
 
-foreach($datos as $valor) {
+foreach($data as $valor) {
     if($valor[2]){
     echo '<li> <a href="'.$valor[1].'">'.$valor[0].'</a></li>';
 }

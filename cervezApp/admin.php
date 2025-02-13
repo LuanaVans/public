@@ -13,7 +13,22 @@
 </form>
 <?php
 //cargar datos del json y convertirlo en un Array PHP
+//$nombre=trin $_GET['nombre']; // contenido sin revisar, se puede meter código malicioso
+//$nombre=strip_tags(S_GET['nombre]); Evita inyección de código
+
 $nombre= $_GET['nombre'];
+$tipo = $_GET['tipo'];
+$origen = $_GET['origen'];
+$alcohol = $_GET['alcohol'];
+$precio = $_GET['precio'];
+
+
+if ($nombre !==strip_tags ($nombre)){
+    $nombre =htmlspecialchars($nombre, ENT_QUOTES, 'UTF-8'); //convierte el contenido a un string seguro
+echo "<h2> No puede insertar fragmento de código </h2>";
+echo "<p> Asi que lo hemos sanitizado. Ahora es: $nombre</p>";
+}
+// echo <div class="info"><span> Hemos guardado el valor:</sp<n>$nombre <p> <a href
 echo $nombre;
 
 
@@ -24,7 +39,8 @@ debugPrint_r($miArray);
 
 //añadir al Array PHP los datos recogidos
 
-$miArray['cervezas'][]=array('nombre'=>$nombre);
+$miArray['cervezas'][]=array('nombre'=>$nombre,'tipo'=>$tipo,'origen'=>$origen,'alcohol'=>$alcohol,'precio'=>$precio);
+
 // los corchetes vacíos es para que se añadan cosas como si fuese un push pero abreviado
 debugPrint_r($miArray);
 
