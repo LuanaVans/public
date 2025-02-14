@@ -40,14 +40,7 @@ foreach ($miArray['obras'] as $miMuseo) {
     echo '</ul>';
 
     ?>
-<section>
-    <p>Horario</p>  
-    <ul class="horarios">
-        <li> Lunes a Viernes: 10:00 a 20:00</li>
-        <li>Sábados y Domingos: 10:00 a 14:00</li>
-        <li>Festivos: Cerrado</li>
-    </ul>
-</section>
+
 
 <hr>
 
