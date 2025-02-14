@@ -1,7 +1,6 @@
 <?php $empresa ='admin';
 
-require 'bloques/_config.php';
-include 'bloques/_header.php';
+
 
 
 //cargamos el archivo JSON y lo traducimos a un array PHP
@@ -67,6 +66,3 @@ method="get">
 
 
 
-<?
-    include 'bloques/_footer.php'; 
-    ?>
