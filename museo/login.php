@@ -12,8 +12,24 @@ include 'bloques/_header.php';
 <?php
 //definimos el usuario y la contraseña que son correctas
 $usuarioCorrecto="elma";
-
 $passwordCorrecta="deftones";
+
+//creamos un array con los datos de usuarios
+$datosUsuario= {
+    [
+        "usuario"=> "richard",
+        "password"=> "mate",
+        "mail"=> "richar@deporte.com",
+        "role"=> "admin"
+    ],
+[
+    "usuario"=> "dani",
+        "password"=> "canva",
+        "mail"=> "dani@deporte.com",
+        "role"=> "usuario"
+]
+
+}
 
 // comprobamos que el formulario es rellenado vía post
 if (isset($_POST['usuario']) && isset($_POST['password'])) {
