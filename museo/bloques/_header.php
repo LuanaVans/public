@@ -14,7 +14,7 @@
     <ul>
         <li><a href="index.php">Inicio</a></li>
         <li><a href="expo.php">Exposiciones</a></li>
-        <li><a href="admin.php">Admin</a></li>
+        
         <li><a href="contact.php">Contacto</a></li>
         <li><a href="login.php">login</a></li>
     </ul>

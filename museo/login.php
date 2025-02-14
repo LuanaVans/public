@@ -7,17 +7,6 @@ include 'bloques/_header.php';
 
 <h1>Museo Dicampus</h1>
 
-<form method="POST" action="login.php">
-
-    <label for="usuario">Usuario:</label>
-    <input type="text" id="usuario" name="usuario">
-    <label for="password">password</label>
-    <input type="text" id="password" name="password">
-
-    <button>Ingresar</button>
-    
-   
-</form>
 
 
 <?php
@@ -46,10 +35,27 @@ if (isset($_POST['usuario']) && isset($_POST['password'])) {
         echo "Las Credenciales son Incorrectas"; //si no son correctas, se muestra este mensaje 
 
     }
-
-
 }
+    else{
+        ?>
+<form method="POST" action="login.php">
+
+<label for="usuario">Usuario:</label>
+<input type="text" id="usuario" name="usuario">
+<label for="password">password</label>
+<input type="password" id="password" name="password">
+
+<button>Ingresar</button>
 
 
+</form>
+<?php
+    }
+    ?>
+
+
+
+
+<?php
     include 'bloques/_footer.php'; 
     ?>
