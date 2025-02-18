@@ -1,0 +1,53 @@
+{
+    "peliculas": [
+        {
+            "titulo": "Iron Man",
+            "anio": 2008,
+            "director": "Jon Favreau",
+            "imagen": "https://i.ebayimg.com/00/s/MTYwMFgxMTA4/z/2aYAAOSwfzZgOAIX/$_57.JPG",
+            "resumen": "Tony Stark, un multimillonario fabricante de armas, es secuestrado por terroristas y, con la ayuda de su cautiverio, crea una armadura avanzada para escapar. Tras regresar a casa, se convierte en el superhéroe Iron Man."
+        },
+        {
+            "titulo": "The Avengers",
+            "anio": 2012,
+            "director": "Joss Whedon",
+            "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20120103113241_1200.jpg",
+            "resumen": "Los héroes más poderosos de la Tierra se unen para enfrentar una amenaza global cuando Loki, el hermano adoptivo de Thor, invade la Tierra con un ejército alienígena."
+        },
+        {
+            "titulo": "Guardians of the Galaxy",
+            "anio": 2014,
+            "director": "James Gunn",
+            "imagen": "https://www.lahiguera.net/cinemania/pelicula/6388/guardianes_de_la_galaxia-cartel-5615.jpg",
+            "resumen": "Un grupo de inadaptados espaciales se unen para formar los Guardianes de la Galaxia y detener una poderosa arma que podría destruir todo el universo."
+        },
+        {
+            "titulo": "Black Panther",
+            "anio": 2018,
+            "director": "Ryan Coogler",
+            "imagen": "https://www.mubis.es/media/users/7286/307233/poster-y-trailer-de-black-panther-wakanda-forever-original.jpg",
+            "resumen": "Tras la muerte de su padre, T'Challa regresa a Wakanda para tomar el trono como el nuevo Black Panther. Pero una amenaza del pasado pone en peligro tanto su reinado como su país."
+        },
+        {
+            "titulo": "Avengers: Endgame",
+            "anio": 2019,
+            "director": "Anthony Russo, Joe Russo",
+            "imagen": "https://pics.filmaffinity.com/Vengadores_Endgame-135478227-large.jpg",
+            "resumen": "Tras los devastadores eventos de 'Avengers: Infinity War', los Vengadores restantes deben encontrar una manera de revertir los efectos de la acción de Thanos y restaurar el equilibrio en el universo."
+        },
+        {
+            "titulo": "Spider-Man: No Way Home",
+            "anio": 2021,
+            "director": "Jon Watts",
+            "imagen": "https://www.mubis.es/media/users/2652/291486/ahora-si-primer-poster-oficial-de-spiderman-no-way-home-original.jpg",
+            "resumen": "Peter Parker solicita la ayuda de Doctor Strange para hacer olvidar al mundo que él es Spider-Man. Sin embargo, la magia sale mal, y comienzan a aparecer villanos de otros universos, lo que pone en peligro su realidad."
+        },
+        {
+            "titulo": "Doctor Strange",
+            "anio": "2016",
+            "director": "Scott Derrickson",
+            "imagen": "https://i.ebayimg.com/images/g/3iYAAOSwO7haCROU/s-l1200.jpg",
+            "resumen": "Doctor Strange narra la historia de Stephen Strange, un talentoso neurocirujano que, tras sufrir un accidente que le deja las manos inutilizadas, emprende un viaje en busca de una cura que lo lleva a descubrir el mundo de la magia y el multiverso. A medida que se entera de sus habilidades mágicas, se enfrenta a una amenaza que podría destruir la realidad tal como la conocemos."
+        }
+    ]
+}

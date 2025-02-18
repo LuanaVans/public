@@ -1,0 +1,90 @@
+{
+    "series": [
+        {
+      "imagen": "https://es.web.img3.acsta.net/pictures/19/03/22/10/08/5883111.jpg",
+      "titulo": "Game of Thrones",
+      "anio": "2011",
+      "director": "David Benioff, D.B. Weiss",
+      "resumen": "En un mundo medieval de fantasía, varias familias luchan por el control del Trono de Hierro y el dominio de los Siete Reinos. A medida que surgen traiciones, alianzas y secretos oscuros, los personajes deben enfrentarse a amenazas tanto humanas como sobrenaturales."
+    },
+    {
+      "imagen": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg.jpg",
+      "titulo": "Breaking Bad",
+      "anio": "2008",
+      "director": "Vince Gilligan",
+      "resumen": "Walter White, un profesor de química que se convierte en fabricante de metanfetaminas tras un diagnóstico terminal de cáncer, lucha por proteger a su familia mientras se adentra en un mundo de crimen y violencia. A medida que se transforma en 'Heisenberg', su vida da giros impredecibles."
+    },
+    {
+      "imagen": "https://sm.ign.com/ign_es/tv/s/stranger-t/stranger-things_tqfy.jpg",
+      "titulo": "Stranger Things",
+      "anio": "2016",
+      "director": "The Duffer Brothers",
+      "resumen": "En la pequeña ciudad de Hawkins, un grupo de niños se enfrenta a sucesos paranormales cuando su amigo desaparece misteriosamente. A medida que descubren un mundo alternativo llamado 'El revés', deben luchar contra fuerzas oscuras que amenazan a su comunidad."
+    },
+    {
+      "imagen": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "titulo": "The Office",
+      "anio": "2005",
+      "director": "Greg Daniels",
+      "resumen": "Una serie de comedia que sigue a los empleados de la oficina de Dunder Mifflin, una empresa de papel en Scranton, Pennsylvania. A través de una mezcla de entrevistas y situaciones cotidianas, la serie muestra la vida de oficina de forma humorística, con un enfoque en la interacción de personajes peculiares."
+    },
+    {
+      "imagen": "https://m.media-amazon.com/images/I/71VNVNI++TL._AC_UF1000,1000_QL80_.jpg",
+      "titulo": "Friends",
+      "anio": "1994",
+      "director": "David Crane, Marta Kauffman",
+      "resumen": "A lo largo de diez temporadas, la serie sigue las vidas de seis amigos en Nueva York. A través de risas y momentos emocionales, enfrentan los altibajos de la vida adulta mientras se apoyan mutuamente en el amor, el trabajo y la amistad."
+    },
+    {
+      "imagen": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_.jpg",
+      "titulo": "Sherlock",
+      "anio": "2010",
+      "director": "Mark Gatiss, Steven Moffat",
+      "resumen": "En una moderna versión de los clásicos relatos de Sherlock Holmes, un brillante detective resuelve crímenes en Londres con la ayuda de su amigo, el Dr. Watson. La serie combina misterio, drama y un toque de humor con una narrativa envolvente."
+    },
+    {
+      "imagen": "https://m.media-amazon.com/images/M/MV5BZTE1YTczZWUtNTI5Ny00NzI0LWFmODctYzZiYzQ3MmRmOWZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "titulo": "Dark",
+      "anio": "2017",
+      "director": "Baran bo Odar, Jantje Friese",
+      "resumen": "En un pequeño pueblo alemán, la desaparición de un niño desvela oscuros secretos que conectan a cuatro familias y que se extienden a través de diferentes épocas. La serie explora temas como los viajes en el tiempo, el destino y las relaciones familiares."
+    },
+    {
+      "imagen": "https://pics.filmaffinity.com/The_Crown_Serie_de_TV-838357032-large.jpg",
+      "titulo": "The Crown",
+      "anio": "2016",
+      "director": "Peter Morgan",
+      "resumen": "La serie narra la vida de la Reina Isabel II desde sus primeros años en el trono hasta los eventos políticos y personales que marcaron su reinado. Con una cinematografía impresionante, explora la historia detrás de la monarquía británica y las decisiones difíciles que enfrentó la reina."
+    },
+    {
+      "imagen": "https://m.media-amazon.com/images/M/MV5BMjMzMTIzMTUwN15BMl5BanBnXkFtZTgwNjE0NTg0MTE@._V1_FMjpg_UX1000_.jpg",
+      "titulo": "Fargo",
+      "anio": "2014",
+      "director": "Noah Hawley",
+      "resumen": "Inspirada en la película de los hermanos Coen, la serie sigue a varios personajes en situaciones criminales en el frío de Minnesota, donde las acciones de unos pocos desencadenan caos y violencia. Cada temporada presenta una historia distinta, con un tono oscuro y satírico."
+    },
+    {
+      "imagen": "https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "titulo": "Money Heist",
+      "anio": "2017",
+      "director": "Álex Pina",
+      "resumen": "Un grupo de criminales, bajo la dirección del 'Profesor', ejecuta el mayor robo de la historia, que consiste en asaltar la Real Casa de la Moneda de España. Con giros sorprendentes, la serie explora las emociones y los conflictos de los personajes mientras la policía intenta atraparlos."
+    },
+    {
+      "imagen": "https://m.media-amazon.com/images/I/81Nzfpz9EpL._AC_UF894,1000_QL80_.jpg",
+      "titulo": "The Walking Dead",
+      "anio": "2010",
+      "director": "Frank Darabont",
+      "resumen": "En un mundo post-apocalíptico dominado por zombis, un grupo de sobrevivientes lucha por mantener su humanidad mientras enfrentan tanto la amenaza de los muertos vivientes como la de otros seres humanos. La serie aborda temas de supervivencia, moralidad y sacrificio."
+    },
+    {
+      "imagen": "https://static.wikia.nocookie.net/best-tv-shows/images/6/66/Black_Mirror.jpg",
+      "titulo": "Black Mirror",
+      "anio": "2011",
+      "director": "Charlie Brooker",
+      "resumen": "Una serie de antología que explora el lado oscuro de la tecnología y la sociedad moderna. Cada episodio es una historia independiente que aborda los peligros y dilemas éticos que podrían surgir con el avance tecnológico, desde las redes sociales hasta la inteligencia artificial."
+    }
+  ]
+}
+  
+    
