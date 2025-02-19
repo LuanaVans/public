@@ -4,7 +4,7 @@ include 'bloques/_header.php';
 
 ?>
 <h1>Catálogo de series</h1>
-<p>¡Bienvenido a nuestro catálogo de series más valoradas! Aquí podrás encontrar algunas de las series más aclamadas por la crítica y queridas por los fans, con historias que te atraparán desde el primer episodio. Ya sea que busques acción, drama, comedia o misterio, tenemos algo para todos los gustos. A continuación, te presentamos algunas de las joyas más destacadas que no puedes dejar de ver:</p>
+<p>Bienvenido a nuestro catálogo de series más valoradas. Aquí, podrás encontrar algunas de las series más aclamadas por la crítica y queridas por los fans, con historias que te atraparán desde el primer episodio. Ya sea que busques acción, drama, comedia o misterio, tenemos algo para todos los gustos. A continuación, te presentamos algunas de las joyas más destacadas que no puedes dejar de ver:</p>
 
 
 <?php

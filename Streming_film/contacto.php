@@ -10,7 +10,7 @@ include 'bloques/_header.php';
 <label for="nombre">Nombre:
     <input type="text" id="name" name="nombre" placeholder="Nombre">
 </label>
-<label for="email">Email:
+<label for="email">  Email:
     <input type="text" id="name"  name="email" placeholder="email">
 </label>
 <label for="mensaje"> Escriba su Mensaje:

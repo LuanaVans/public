@@ -7,6 +7,7 @@ body {
     margin: 0 auto;
     padding: 20px;
     min-width:100px;
+    background:black;
 
 }
 
@@ -56,7 +57,7 @@ nav ul {
 ul.galeria li {
 flex:1 1 320px;
     border-radius:20px;
-    border: 2px solid red;overflow:hidden;
+    border: 2px solid white;overflow:hidden;
     margin-top:30px;
 }
 
@@ -67,8 +68,8 @@ ul.galeria li .info{
 
 ul {
     padding:0;
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 15px;
 }
 
@@ -85,7 +86,8 @@ h1 {
     font-size: 40px;
     font-family: var(--ff);
     font-weight: bold;
-    text-align:center;
+    
+    color:white;
 
 }
 h2{
@@ -93,12 +95,14 @@ h2{
     font-family: var(--ff);
     font-weight: bold;
     text-align:center;
+    color:white;
 
 }
 .historia{
     text-align:center;
     margin-top:20px;
     margin-bottom:20px;
+    color:white;
 }
 .ver{
     text-align:center;
@@ -108,9 +112,11 @@ h2{
     background:red;
     border-radius:30px;
     font-family:18px;
+    color:white;
 }
 p{ font-family:sans-serif;
     font-size: 18;
+    color:white;
 
 }
 
@@ -136,10 +142,10 @@ i{
 
 form {
     width: 100%;
-    max-width: 300px; 
-    margin: 20px auto; 
+    max-width: 400px; 
+    margin: 10px auto; 
     padding: 5px;
-    background-color: #f5f5f5; 
+    background-color: white; 
     border-radius: 20px; 
     box-shadow: 0 2px 200px rgba(0, 0, 0, 0.1); 
     margin-top:50px;
@@ -152,23 +158,24 @@ label {
     font-size: 18px;
     font-weight: bold;
     color: #333; 
+    align-content:center;
 }
 
 
 input[type="text"], textarea {
     width: 100%; 
-    padding: 20px;
+    padding: 10px;
     margin-top: 10px; 
     border: 1px solid #242323; 
     border-radius: 10px; 
     font-size: 18px;
     color: #333; 
-    max-width: 600px;
+    max-width: 300px;
 }
 
 
 textarea {
-    height: 120px; 
+    height: 150px; 
     resize: vertical; 
 }
 

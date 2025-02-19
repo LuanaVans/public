@@ -19,7 +19,8 @@
             <li><a href="peliculas.php">Películas</a></li>
             <li><a href="series.php">Series</a></li>
             <li><a href="contacto.php">Contacto</a></li>
-            <li><a href="admin.php">Admin</a></li>
+            
+            <li><a href="login.php">Login</a></li>
         </ul>
     </nav>
     <span class="logo">Streaming Film</span>
