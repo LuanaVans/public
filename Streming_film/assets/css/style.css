@@ -1,6 +1,6 @@
 
 :root{
-    ff:serif;
+    font:serif;
 
 }
 body {
@@ -103,6 +103,7 @@ h2{
     margin-top:20px;
     margin-bottom:20px;
     color:white;
+    padding:15px;
 }
 .ver{
     text-align:center;

@@ -8,7 +8,7 @@
 </head>
 <body>
     
-</body>
+
 <header> 
 <nav>
     <ul>
@@ -23,4 +23,5 @@
 
 </header>
 <main>
+</body>
 

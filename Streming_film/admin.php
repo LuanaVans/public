@@ -1,10 +1,3 @@
-<?php
-
-require 'bloques/_config.php';
-include 'bloques/_header.php'; 
-
-?>
-
 <form action="admin.php" method="GET">
     <p>Incluya Película</p>
 

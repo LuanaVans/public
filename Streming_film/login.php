@@ -18,12 +18,12 @@ if (isset($_POST['usuario']) && isset($_POST['password'])) {
    $passwordIngresado = $_POST['password'];
 
 // comprobar que exista y que se imprima con la función debug que tenemos creada
-    elma_debug ("El usuario es: $usuarioIngresado <br>");
-    elma_debug ("La contraseña es: $passwordIngresado <br>");  
+    elma_debug("El usuario es: $usuarioIngresado <br>");
+    elma_debug("La contraseña es: $passwordIngresado <br>");  
 
 // comprobamos si el usuario y la contraseña son correctos
     if($usuarioCorrecto == $usuarioIngresado && $passwordCorrecta == $passwordIngresado){
-        include ('Streming_film/admin.php'); //si son correctos, se carga el archivo del admin para añadir más obras
+        include('admin.php'); //si son correctos, se carga el archivo del admin para añadir más obras
 
     }
     else {
