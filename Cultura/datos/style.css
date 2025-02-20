@@ -1,10 +1,59 @@
-*:hover{
-    outline: 1px red solid;
+body{
+    margin:0 auto;
+    padding:20px;
+    font-family: sans-serif;
+    
 }
 
-
-img{max-width: 60%;
+img{
+    max-width: 100%;
     }
-h2{ font-size:22px;
 
+h2{ font-size:22px;
 }
+
+a{ font-size:25px;
+   text-decoration: none;
+}
+
+
+p {  font-size:18px; padding:0; margin:2px;;}
+
+a{
+    font-size:18px;
+    padding:18px;
+    background:darkblue;
+    border-radius:20px;
+    color:white;
+}
+
+ul{
+    padding:0;
+    list-style:none;    
+
+    display:flex;
+    flex-wrap:wrap;
+}
+
+li{
+    flex: 1 1 460px;
+    
+    display:flex;
+    gap:28px;
+    background:#c9c7c7;
+    margin:20px;
+    padding:10px;
+    border-radius:20px;
+}
+
+li img{
+    border-radius:10px;
+    aspect-ratio:1/1;
+    object-fit:cover;
+}
+
+.contenedor{
+    width:50%;
+}
+
+    
