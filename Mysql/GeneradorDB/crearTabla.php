@@ -18,7 +18,7 @@ if(!$conn){
 echo "conexión exitosa";
 
 
-// crear la base de datos
+// crear la tabla base de datos
 
 $sql = "CREATE TABLE `tabla1` (
     `id` int(8) NOT NULL AUTO_INCREMENT PRIMARY KEY,
