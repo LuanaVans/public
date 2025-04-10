@@ -1,0 +1,82 @@
+/*
+Theme Name: miTheme
+Description: Este es un Child Theme personalizado basado en el tema padre Ejemplo.
+Author: Tu Nombre
+Author URI: https://www.tu-sitio-web.com
+Template: twentytwelve
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mitheme
+
+Referencias: https://developer.wordpress.org/themes/advanced-topics/child-themes/
+*/ 
+
+:root{
+    --c:rgb(140, 203, 210);
+}
+
+body{
+    max-width:960px;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color:var(--c);
+
+}
+
+
+
+
+ul.lista-libros{
+    list-style:none;
+    padding:0;
+
+    display:grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap:10px;
+}
+
+
+ul.lista-libros img{
+    display:block;
+    margin:0 auto;
+    max-width:100%;
+    height:300px;
+    object-fit:cover;
+}
+
+ul.lista-libros h3{
+    color:var(--c);
+    font-size:30px;
+    text-align:center;}
+
+
+ul.lista-libros li{
+    margin-bottom:30px;
+    border: solid 1px grey;
+    padding:10px;
+    border-radius:10px;
+}
+
+
+ul.lista-libros ul.autores{
+    list-style:none;
+    padding-left:0;
+    background:var(--c);
+    padding:0px;
+    border-radius:8px;
+
+}
+
+ ul.autores a{
+        color:white;
+     text-align:center;
+     display:block;
+
+ }
+

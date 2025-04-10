@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Simpson Style Face Creator</title>
+    <link rel="stylesheet" href="simpson-style.css">
+</head>
+<body>
+
+    <header></header>
+    <main onmousemove="girar3d(event)">
+        <div id="head" class="mode1d">
+            <div id="hair-back"></div>
+            <div id="neck"></div>
+            <div id="skull"></div>
+            <div id="face-top">
+                <div id="eye-right"></div>
+                <div id="nose"></div>
+                <div id="eye-left"></div>
+                <div id="glasses"></div>
+            </div>
+            <div id="ears"></div>
+            <div id="face-buttom">
+                <div id="mouth"></div>
+                <div id="beard"></div>
+            </div>
+            <div id="hair-front"></div>
+        </div>
+    </main>
+    <footer>
+        <p>The Simpson style builder</p>
+        <button onclick="aaa()">Ver cómo funciona</button>
+
+        <input type="range" min="0" max="360" value="0" onmousemove="rotate3d()" id="deslizador">
+
+        <p id="demo">asdf</p>
+
+    </footer>
+    <script src="simpson-js.js"></script>
+</body>
+</html>

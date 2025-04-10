@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    background: black url(https://c4.wallpaperflare.com/wallpaper/1005/822/563/star-wars-death-star-at-at-space-wallpaper-preview.jpg);
+    color: yellow;
+    padding: 150px;
+    border-bottom: dotted 40px white;
+}

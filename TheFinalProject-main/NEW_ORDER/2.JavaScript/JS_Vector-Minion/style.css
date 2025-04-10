@@ -1,0 +1,17 @@
+body{
+
+    background: tomato;
+}
+
+
+#cuerpo:hover { fill: pink; stroke: blue; stroke-width:10px;}
+
+
+#grupo{ animation: anim1 .3s infinite;}
+
+@keyframes anim1 {
+0%{ top:-30px; transform: scale(0.8);}
+50%{ top:0px; transform: scale(1);}
+100%{ top:-30px; transform: scale(0.8);}
+    
+}

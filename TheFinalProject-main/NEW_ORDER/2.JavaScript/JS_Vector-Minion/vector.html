@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+
+    <svg width="223" height="538" viewBox="0 0 223 538" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect width="223" height="538" rx="111.5" fill="#FFE91F" id="cuerpo"/>
+        <g id="grupo">
+        <circle cx="111.5" cy="213.5" r="103.5" fill="white" stroke="black" stroke-width="6" id="ojo"/>
+        <circle cx="111" cy="213" r="56" fill="black" id="pupila"/>
+        <circle cx="138.5" cy="171.5" r="36.5" fill="white" id="reflejo"/>
+        </g>
+        <circle cx="108" cy="415" r="21" fill="black" id="boca"/>
+    </svg>
+        
+        <button onclick="cambiar();">Cambiar color</button>
+
+        <button onclick="cambiar2();">Mostrar Rayos X</button>
+
+        <button onclick="reset();">Reset</button>
+
+        <input type="number" id="gordura" onchange="gordo();">cambiar ancho de cuerpo
+        <input type="number" id="altura" onchange="gordo();">cambiar alto de cuerpo
+
+        <input type="color" onchange="cambiar3()" id="colorPiker">
+
+    <script src="script.js"></script>
+</body>
+</html>

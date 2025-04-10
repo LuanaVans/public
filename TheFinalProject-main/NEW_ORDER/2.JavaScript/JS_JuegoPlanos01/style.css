@@ -1,0 +1,14 @@
+
+body{
+    font-family: sans-serif;
+    max-width: 550px;
+    margin: 0 auto;
+    background:lightseagreen;
+    color:white;
+    text-align: center;
+}
+
+img{ border-radius: 20px; border:  solid 5px white;
+}
+.v{ color:rgb(126, 184, 39);}
+.r{ color:red;}

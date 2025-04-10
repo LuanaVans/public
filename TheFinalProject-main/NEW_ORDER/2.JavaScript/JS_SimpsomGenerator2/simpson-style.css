@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+
+html{
+    font-family: sans-serif;
+    padding: 20px;
+
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{width: 550px; height: 550px;}
+
+
+
+#head{
+    position: relative;
+    width: 100%;
+}
+
+#head, #head *{
+    transition: 0s;
+}
+
+.mode3d{
+    transform-style: preserve-3d;
+    transform: perspective(5000px) rotateY(70deg) scale3d(1, 1, 1);
+    animation: anim1 3s;
+    }
+
+
+@keyframes anim1{
+    0%{transform: perspective(5000000px) rotateX(0deg) rotateY(0deg) rotateZ(0deg)  scale3d(1, 1, 0.01);}
+    50%{transform: perspective(5000000px) rotateX(20deg) rotateY(40deg) rotateZ(-5deg)  scale3d(1, 1, 0.01);}
+    100%{transform: perspective(5000px)  rotateY(70deg) scale3d(1, 1, 1);}
+}
+@keyframes anim2{
+    0%{transform: perspective(5000px)  rotateY(70deg) scale3d(1, 1, 1);}
+    50%{transform: perspective(5000000px) rotateX(20deg) rotateY(40deg) rotateZ(-5deg)  scale3d(1, 1, 0.01);}
+    100%{transform: perspective(5000000px) rotateX(0deg) rotateY(0deg) rotateZ(0deg)  scale3d(1, 1, 0.01);}
+}
+
+.mode3d #hair-back,
+.mode3d #hair-back,
+.mode3d #neck,
+.mode3d #skull,
+.mode3d #eye-left,
+.mode3d #nose,
+.mode3d #eye-right,
+.mode3d #glasses,
+.mode3d #ears,
+.mode3d #mouth,
+.mode3d #beard,
+.mode3d #hair-front,
+
+.mode3d #face-top *,
+.mode3d #face-buttom *{
+    opacity:0.5;
+}
+
+.mode3d *{
+    outline: 2px rgba(0,0,0,.3) solid;
+}
+
+
+
+.mode1d,
+.mode2d{
+    transform-style: preserve-3d;
+     transform: perspective(5000000px) rotateX(0deg) rotateY(0deg) rotateZ(0deg)  scale3d(1, 1, 0.01);
+}
+
+.mode2d{
+    animation: anim2 3s !important;
+}
+
+   .mode2d *{
+        opacity:100%;
+    }
+
+.mode2d *{
+    outline: 0px transparent solid;
+}
+
+#head #hair-back,
+#head #neck,
+#head #skull,
+#head #eye-left,
+#head #nose,
+#head #eye-right,
+#head #glasses,
+#head #ears,
+#head #mouth,
+#head #beard,
+#head #hair-front,
+
+#head #face-top,
+#head #face-buttom{
+    position: absolute;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    top: -32px;
+    bottom: 0;
+    left:0;
+    right:0;
+    transform-style: preserve-3d;
+    }
+
+#head #hair-back,
+#head #neck,
+#head #skull,
+#hair-front {
+    margin: 0 auto;
+}
+
+
+
+
+/* positions and sices*/
+#head #hair-back{  width: 400px; height: 550px; left:020px;  top:000; }
+#head #neck{width: 360px;height: 550px;left: 39px !important;top: 16px;}
+#head #skull{width: 350px;height: 450px;left:020px;top:000;}
+#head #eye-left{width: 100px;height: 100px;left: 302px;top:000;}
+#head #nose{       width: 100px; height: 200px; left: 341px; top:-20px;}
+#head #eye-right{width: 100px;height: 100px;left: 370px;top:000;}
+#head #glasses{    width: 200px; height: 100px; left: 302px; top: 7px;}
+#head #ears{width: 150px;height: 200px;left: 111px;top: 189px;}
+#head #mouth{      width: 250px; height: 130px; left: 236px; top: 0px; opacity:0.;/* opacity:0.2; */}
+#head #beard{width: 250px;height: 250px;left: 195px;top: 272px;display: none;}
+#head #hair-front{ width: 450px; height: 275px; left:000px;  top:-2px;   }
+
+#head #face-top{top: 175px;left: 8px; height:140px;}
+#head #face-buttom{ top:265px; height:120px;}
+
+
+/* img loaders */
+#head #hair-back{background-image: url(img/hair-back.png);transform: translateZ(-203px);}
+#head #neck{background-image: url(img/neck.png);transform: translateZ(-142px);}
+#head #skull{background-image: url(img/skull.png);transform: translateZ(-78px);}
+#head #eye-left{background-image: url(img/eye-left.png);transform: translateZ(28px);}
+#head #nose{background-image: url(img/nose.png);transform: translateZ(-6px);}
+#head #eye-right{background-image: url(img/eye-right.png);transform: translateZ(-55px);}
+#head #ears{background-image: url(img/ear.png);transform: translateZ(196px);}
+#head #glasses{background-image: url(img/glass.png);transform: translateZ(58px);}
+#head #mouth{background-image: url(img/mouth.png);transform: translateZ(217px);}
+#head #beard{background-image: url(img/beard.png);transform: translateZ(258px);}
+#head #hair-front{background-image: url(img/hair-front.png);transform: translateZ(291px);}
+
+
+footer{ text-align:center; margin-top:80px;}
+
+
+
+button{ padding: 10px; text-align: center; margin: 6px;}
+
+
+

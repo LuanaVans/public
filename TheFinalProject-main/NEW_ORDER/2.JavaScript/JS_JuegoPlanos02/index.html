@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <img  id="foto" src="" alt="">
+
+        <form action="">
+            <h2>¿Cuál es el tipo de plano que aparece en la imagen?</h2>
+            
+
+            <ul>
+                <li>  <input type="radio" id="r1" name="p1" value="0"> <label for="r1">Plano Detalle</label>  </li>
+                <li>  <input type="radio" id="r2" name="p1" value="1"> <label for="r2">Primerísimo Primer Plano</label>  </li>
+                <li>  <input type="radio" id="r3" name="p1" value="2"> <label for="r3">Primer Plano</label>  </li>
+                <li>  <input type="radio" id="r4" name="p1" value="3"> <label for="r4">Plano Medio</label>   </li>
+                <li>  <input type="radio" id="r5" name="p1" value="4"> <label for="r5">Plano Americano</label>   </li>
+                <li>  <input type="radio" id="r6" name="p1" value="5"> <label for="r6">Plano General</label>     </li>
+                <li>  <input type="radio" id="r7" name="p1" value="6"> <label for="r7">Gran Plano General</label>   </li>
+        </ul>
+        </form>
+        <img  id="eleccion" src="" alt="">
+
+        <button id="btnComprobar" onclick="comprobar()">Comprobar</button>
+
+        <p id="resultado">Selecciona una opción</p>
+
+        <button id="btnSiguiente" onclick="siguiente()">Siguiente</button>
+
+        <p id="marcador">0 Puntos de 0 Intentos</p>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

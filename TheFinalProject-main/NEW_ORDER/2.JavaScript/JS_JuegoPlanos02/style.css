@@ -1,0 +1,53 @@
+:root{
+    --c1:lightseagreen;
+    --rad:20px;
+}
+
+
+
+body{
+    max-width: 680px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    padding: 20px;
+
+    background:var(--c1);
+
+}
+
+
+header, main, footer{
+    background:white; 
+    padding:20px;
+    border-radius:var(--rad);
+    margin:20px;
+}
+
+img{ max-width:100%;
+   border-radius:calc(var(--rad)/2);}
+
+#eleccion{ width:100%}
+
+#foto{ animation: aparicion 2s 1;}
+
+ul{
+    list-style: none;
+}
+
+ul li{ background-color: none; padding: 2px; border-radius: 10px; border:solid grey 1px; margin:2px;}
+
+ul li:hover{ background-color: lightgrey; }
+
+
+button{ width:80%; margin:0 auto; border-radius:20px; background:var(--c1);
+      border:none; 
+      padding:var(--rad); font-size:20px; color:white; letter-spacing:6px;}
+button:hover{ background:black;}
+
+
+
+
+@keyframes aparicion{
+   from{ opacity:0; transform:scale(2);}
+   to{ opacity:1; transform:scale(1);}
+}

@@ -1,0 +1,66 @@
+:root {
+    --c: tan;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, sans-serif;
+    font-size: 1.125rem;
+    line-height: 1;
+    width: min(65ch, 100% - 4rem);
+    margin-inline: auto; }
+
+a {
+    text-decoration: none;
+    color: var(--c);
+}
+
+img, svg, video {
+    max-width: 100%;
+    display: block;
+}
+
+
+nav ul,
+ul.lista{
+    list-style:none;
+    padding:0;
+}
+
+nav ul {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+
+ul.lista{
+    display:grid;
+    grid-template-columns:repeat(2, 1fr);
+    gap:0.5rem;
+}
+
+
+
+ul.lista img{
+    width:100%;
+    aspect-ratio:1.1/1;
+    object-fit:cover;
+    box-shadow:0 0 0x;
+    transition:.2s;
+
+}
+
+ul.lista a:hover img{
+    scale:1.05;
+    box-shadow:2px 4px 8px;
+}
+
+ul.lista h3{
+    font-size:1rem;
+    font-weight:normal;
+}

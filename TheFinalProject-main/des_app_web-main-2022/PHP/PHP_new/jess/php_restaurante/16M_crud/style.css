@@ -1,0 +1,16 @@
+body{
+    font-family: system-ui;
+    width: min(70ch, 90%);
+    margin-inline: auto;
+}
+
+body{
+    font-family: system-ui;
+    width: min(70ch, 90%);
+    margin-inline: auto;
+}
+
+tr a{ display:none}
+tr:hover a{ display:block}
+
+tr:nth-child(even){ background: #EEE;}

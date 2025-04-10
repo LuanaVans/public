@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+<h1>De qué color quieres tu coche</h1>
+<form action="coche2.php" method="get">
+    <label for="color">Seleccione color</label>
+
+    <input type="range" list="tickmarks" id="color" name="g" min="0" max="360">
+
+    <datalist id="tickmarks">
+      <option value="0" label="0">
+      <option value="90">
+      <option value="180" label="180">
+      <option value="270">
+      <option value="360" label="360">
+    </datalist>
+
+    <input type="submit" value="Dame mi coche">
+</form>
+
+</body>
+</html>

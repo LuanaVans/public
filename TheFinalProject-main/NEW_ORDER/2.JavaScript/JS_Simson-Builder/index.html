@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+   
+    <title>Simpsom Builder</title>
+    <meta name="description" content="Interactive character builder by miguelesteban.net" />
+    <meta property="og:title" content="Simpson Builder" />
+    <meta property="og:image" content="https://miguelesteban.net/lab/JavaScript/simpson-builder/img/thumb.png" />
+
+
+
+    <link rel="stylesheet" href="simpsom-style.css">
+</head>
+<body>
+
+    <main>
+
+        <div id="cabeza">
+        <div id="ojos"></div>
+        <div id="nariz"></div>
+        <div id="boca"></div>
+    </div>
+
+<div id="botonera">
+    <button onclick="ojo()">EYES</button>
+    <button onclick="boca()">MOUTH</button>
+    <button onclick="cabeza()">HAIR</button>
+    <button onclick="aleatorio()">RANDOM</button>
+    <input type="range" min="0" max="360" step="any" value="0" onchange="hue()" id="tono">
+
+
+<p id="copyright"><a href="https://miguelesteban.net" target="_blank">miguelesteban.net</a></p>
+</div>   
+</main>
+    
+    <script src="simpsom-script.js"></script>
+</body>
+</html>

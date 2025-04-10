@@ -1,0 +1,9 @@
+body{
+    font-family: system-ui;
+    width: min(65ch, 100% - 4rem);
+    margin-inline: auto;
+}
+
+.listaAnimales img{
+    width:120px;
+}

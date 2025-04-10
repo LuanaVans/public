@@ -1,0 +1,33 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font:inherit
+}
+
+html{
+    color-scheme: dark light;
+}
+
+body{
+    font-family: system-ui, sans-serif;
+    font-size: :1.125rem;
+    line-height:1.5;
+    min-height: 100vh;
+
+    width: min(65ch, 100% - 4rem);
+    margin-inline:auto;
+}
+
+
+img, picture, svg, video{
+    display: block;
+    max-width: 100%;
+}
+
+
+
+/* https://www.youtube.com/shorts/2lyDv0wOQuQ */
+/* https://www.youtube.com/watch?v=wBKT2KN_Y9s&ab_channel=KevinPowell */

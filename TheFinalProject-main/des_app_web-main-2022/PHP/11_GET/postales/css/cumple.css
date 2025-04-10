@@ -1,0 +1,22 @@
+body{
+    background:red url(https://pyxis.nymag.com/v1/imgs/ea4/03d/1ff1cefbf213f55121fe3a9e5b62b0bd5d-10-fraggle-rock.rsquare.w330.jpg) center center no-repeat;
+    background-size:contain;
+    
+    min-height:100vh;
+    
+      max-width:460px;
+    margin: 20px auto;
+    font-family: sans-serif;
+    text-align: center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  
+  
+  main{
+    padding:20px;
+    background:rgba(200,255,255,.8);
+    border-radius:120px 0;
+  }
+  

@@ -1,0 +1,101 @@
+:root {
+    --c: coral;
+    --c1: var(--c);
+    --m: 20px;
+    --ff: verdana, sans-serif;
+    --mw: 980px;
+}
+
+body {
+    background: var(--c1);
+    font-family: var(--ff);
+    margin: var(--m) auto;
+    padding: var(--m);
+    max-width: var(--mw);
+}
+
+img.logo {
+    border-radius: 40px 40px;
+    width: 90px;
+    min-height: 90px;
+
+}
+
+img.restaurante {
+    max-width: 100%;
+    width: 980px;
+    height: 300px;
+
+}
+
+.listcarta {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 25rem), 1fr));
+    gap: 28px;
+    border: solid grey 1px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background: var(--c);
+    box-shadow: 0 0 8px lightgrey;
+}
+
+.listcarta img {
+    width: 100%;
+    height: 189px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+
+.listcarta .precio {
+    color: white;
+}
+
+.listcarta h3 {
+    font-size: 30px;
+    margin: 0;
+}
+
+
+a {
+    color: var(--c1);
+    text-decoration: none;
+}
+
+a:visited,
+a:hover {
+    color: var(--c1);
+    text-decoration: none;
+}
+
+/* nueva forma de css -> a:is(:hover,:visited){ 
+        color:red;}*/
+
+
+header nav a {
+    text-shadow: 1px 1px 1px grey, 0 0 4px white;
+}
+
+header nav a:hover {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+nav ul {
+    display: flex;
+    gap: 10px;
+}
+
+header,
+main,
+footer {
+    background: #FFFFFF88;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 10px
+}

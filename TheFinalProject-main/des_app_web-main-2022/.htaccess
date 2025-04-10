@@ -1,0 +1,21 @@
+# http://desappweb.local 
+# es el nombre de la ruta de mi servidor local
+# (cambiala por la tuya más bajo)
+
+#RewriteEngine On
+
+
+# Error 404
+#ErrorDocument 404             http://desappweb.local/des_app_web/_config/404.php
+ErrorDocument 404             http://desappweb.local/des_app_web/_config/404.php
+
+
+#Options +SymLinksIfOwnerMatch
+#RewirteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule . /404.php [L]
+
+#Esto borra .php de tal manera que si la url apunta a babal.com/algo.php lo entiende como blaba.com/algo
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

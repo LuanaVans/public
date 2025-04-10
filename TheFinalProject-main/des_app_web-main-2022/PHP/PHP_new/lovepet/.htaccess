@@ -1,0 +1,14 @@
+
+#Activa Rewirte Engine
+RewriteEngine On
+
+#Redireccion a error 404
+ErrorDocument 404 http://htaccess.local/404.php
+
+
+#Reescribir la URL solicitada por el usuario
+RewriteRule ^inicio/?$                                                      index.php
+RewriteRule ^servicios/?$                                                   servicios.php
+RewriteRule ^servicios-de-hosteleria-y-restauracion/gijon/?$             servicios.php?v=gijón
+RewriteRule ^servicios-de-hosteleria-y-restauracion/asturias/?$          servicios.php?v=asturias
+RewriteRule ^contacto/?$                                                    contacto.php

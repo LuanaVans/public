@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  bottom: 0;
+}
+
+body,
+html {
+  overflow: hidden;
+  text-align: center;
+  font-family: sans-serif;
+  background: coral;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform-style: preserve-3d;
+  transform: perspective(5000px);
+}
+
+img {
+  display: block;
+  transform: rotateX(0deg) rotateY(0deg);
+  filter: drop-shadow(0 0 3px magenta) drop-shadow(3px 8px 28px cyan);
+}
+
+#mario {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  margin-left: -150px;
+  margin-top: -150px;
+}
+
+#demo {
+  width: 100%;
+  position: fixed;
+  bottom: 5px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  opacity: 0.3;
+}

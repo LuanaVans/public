@@ -1,0 +1,36 @@
+body{
+    background: brown;
+    font-family: sans-serif;
+    max-width: 560px;
+    margin: 20px auto;
+    padding:25px;
+}
+
+h1{
+    color:whitesmoke;
+    font-style: italic;
+    letter-spacing: 5px;
+}
+
+img{
+    max-width:100%;
+    border: white solid 5px;
+    border-radius: 53px;
+    box-shadow: 8px 6px 7px 6px black;
+}
+
+ul{
+    display:flex;
+    padding-left: 0;
+    list-style:none;
+    gap:10px;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
+
+ul a:hover{
+    color:black
+}

@@ -1,0 +1,2 @@
+<a href="ficha.php?marca=levis&categoria=pantalones&foto=levis_01.jpg">ficha.php?marca=levis&categoria=pantalones&foto=levis_01.jpg</a><br>
+<a href="ficha.php?marca=tarta&categoria=reposteria&foto=tarta_01.jpg">ficha.php?marca=tarta&categoria=reposteria&foto=tarta_01.jpg</a>

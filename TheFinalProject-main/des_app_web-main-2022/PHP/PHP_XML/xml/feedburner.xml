@@ -1,0 +1,1986 @@
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+      <channel>
+  <title>Applesfera</title>
+  <link>https://www.applesfera.com</link>
+  <description>Publicación sobre el ecosistema Apple: iPhone, iPad, MacBook, Watch, AirPods, macOS, Apple TV+. Noticias, análisis, ofertas, tutoriales y opinión.</description>
+  <pubDate>Thu, 01 Jun 2023 22:21:38 +0000</pubDate>
+  <generator>https://www.applesfera.com</generator>
+  <atom:link href="https://www.applesfera.com/feedburner.xml" rel="self" type="application/rss+xml" />
+
+            
+                <item>
+    <title><![CDATA[¿WhatsApp me espía? Seguramente no: así puedes saber si una app te está grabando sin permiso en tu iPhone (aunque es muy raro) ]]></title>
+    <link>https://www.applesfera.com/aplicaciones-ios-1/whatsapp-me-espia-seguramente-no-asi-puedes-saber-app-te-esta-grabando-permiso-tu-iphone-muy-raro</link>
+    <guid>https://www.applesfera.com/aplicaciones-ios-1/whatsapp-me-espia-seguramente-no-asi-puedes-saber-app-te-esta-grabando-permiso-tu-iphone-muy-raro</guid>
+    <pubDate>Thu, 01 Jun 2023 19:09:24 +0200</pubDate>
+         <dc:creator>Fran Bouzas</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/7ca147/6292df37ac9b05033275b647/1024_2000.jpeg" alt="¿WhatsApp me espía? Seguramente no: así puedes saber si una app te está grabando sin permiso en tu iPhone (aunque es muy raro) ">
+    </p>
+    <p>La privacidad está siempre en el centro de todos los productos de Apple. Es una de sus señas de identidad. Los de Cupertino siempre presumen de ella, y es cierto que en ese aspecto <strong>tienden a ser superiores que la competencia</strong>. Han hecho <a href="https://www.applesfera.com/apple-1/apple-destaca-privacidad-iphone-dos-nuevos-anuncios-emitidos-ces">infinidad de anuncios</a> destacándola como una de las características clave de sus terminales, y tienen razón.</p>
+<!-- BREAK 1 -->
+<p>Sin embargo, en ocasiones la tecnología falla. Es algo extremadamente raro, pero pasa. Apple tiene varios mecanismos para prevenirlo, aunque <strong>en ocasiones se alinean todos los astros y acaba sucediendo</strong>. Un ejemplo bastante claro es el de WhatsApp. Todos le solemos dar permiso para grabar audio y vídeo, y aunque prácticamente nunca lo hace sin que seamos conscientes, puede llegar a pasar una vez, y eso ya es suficiente para preocuparnos.</p>
+<!-- BREAK 2 -->
+<h2>Es mejor prevenir que curar</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x7zhgs1","autoplay":true,"title":"Privacy Thats iPhone - Over Sharing: la importancia de la privacidad de nuestros datos", "tag":"Anuncio"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Cuando las aplicaciones se quedan abiertas en segundo plano en nuestro iPhone, pueden seguir ejecutando funciones, aunque consumiendo menos batería. Es decir, que WhatsApp puede activar el micrófono o la cámara sin que nos enteremos. Es algo preocupante, aunque prácticamente residual. Salvo que seas la víctima de algún tipo de espionaje muy elaborado, que no creo, <strong>se tratará de un simple error de la app</strong>.</p>
+<!-- BREAK 3 -->
+<p><a href="https://www.applesfera.com/nuevo/ios-16-caracteristicas-novedades-fecha-lanzamiento">iOS 16</a> incluye una función para ayudarnos a detectar casos así. Si alguna vez has visto <strong>un pequeño punto naranja o verde en la parte superior de tu dispositivo</strong> y no sabías lo que era, estás de suerte porque te lo voy a explicar. Esos dos puntos son la forma que tiene Apple de decirnos si una aplicación está usando o ha usado recientemente la cámara o el micrófono.</p>
+<!-- BREAK 4 --><div class="article-asset-image article-asset-small article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:100%;">
+                  
+  <img alt="iPhone con un punto naranja y uno verde en la parte superior derecha" class="centro_sinmarco" src="https://i.blogs.es/25bbdf/orange-and-green-indicator-in-iphone-status-bar-ios-14-1200x1200/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Si es el micrófono lo que se ha activado, el punto será de color naranja. Por otro lado, si una aplicación ha utilizado o está utilizando la cámara, el punto será verde. Si deslizas para abrir el Centro de Control <strong>te dirá exactamente qué app está haciendo uso de ellos</strong>. Si es algo que has autorizado puedes ignorarlo, si no lo es, te recomendamos que lo <a href="https://www.applesfera.com/servicios-apple/esta-app-estafa-apple-anade-boton-para-reportar-apps-fraudulentas-app-store#:~:text=Ya%20se%20puede%20informar%20de%20apps%20fraudulentas&text=Según%20las%20capturas%20proporcionadas%2C%20en,de%20un%20fraude%20o%20estafa.">reportes</a> a través de la App Store.</p>
+<!-- BREAK 5 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/apple-1/apple-lanza-nuevas-iniciativas-para-ayudarnos-a-estar-seguros-proteger-nuestra-privacidad" >
+     <img alt="Apple&#x20;lanza&#x20;nuevas&#x20;iniciativas&#x20;para&#x20;ayudarnos&#x20;a&#x20;estar&#x20;m&#x00E1;s&#x20;seguros&#x20;y&#x20;proteger&#x20;nuestra&#x20;privacidad&#x20;" src="https://i.blogs.es/38db33/dia-de-la-privacidad-apple-2023-001/375_142.webp" onerror='this.src="https://i.blogs.es/38db33/dia-de-la-privacidad-apple-2023-001/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/apple-1/apple-lanza-nuevas-iniciativas-para-ayudarnos-a-estar-seguros-proteger-nuestra-privacidad" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/apple-1/apple-lanza-nuevas-iniciativas-para-ayudarnos-a-estar-seguros-proteger-nuestra-privacidad" class="desvio-title js-desvio-title">Apple lanza nuevas iniciativas para ayudarnos a estar más seguros y proteger nuestra privacidad </a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Si te preocupa o ves que sigue grabándote sin tu consentimiento, puedes borrar la aplicación en tanto que no recibas respuesta de Apple o del desarrollador. De todos modos, <strong>estos casos son muy residuales en el iPhone</strong>. Es muy difícil que una aplicación te vaya a grabar sin consentimiento. Aún así, es bueno saber qué hacer para solucionarlo.</p>
+<!-- BREAK 6 -->
+<p>En Applesfera |&nbsp;<a href="https://www.applesfera.com/seguridad/que-que-funcion-tiene-punto-naranja-nuestro-iphone#:~:text=Un%20puntito%20que%20vela%20por%20nuestra%20privacidad&text=Un%20puntito%20verde%20indica%20que,iPhone%20está%20utilizando%20el%20micrófono.">Qué es y qué función tiene el punto naranja de nuestro iPhone</a></p>
+<!-- BREAK 7 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/aplicaciones-ios-1/whatsapp-me-espia-seguramente-no-asi-puedes-saber-app-te-esta-grabando-permiso-tu-iphone-muy-raro?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> ¿WhatsApp me espía? Seguramente no: así puedes saber si una app te está grabando sin permiso en tu iPhone (aunque es muy raro)  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/francisco-bouzas?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Fran Bouzas
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[La playlist oficial de la WWDC23 ya está disponible en Apple Music ]]></title>
+    <link>https://www.applesfera.com/eventos/playlist-oficial-wwdc23-esta-disponible-apple-music</link>
+    <guid>https://www.applesfera.com/eventos/playlist-oficial-wwdc23-esta-disponible-apple-music</guid>
+    <pubDate>Thu, 01 Jun 2023 18:04:40 +0200</pubDate>
+         <dc:creator>Miguel López</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/de1e30/wwdc23-apple-music/1024_2000.jpeg" alt="La playlist oficial de la WWDC23 ya está disponible en Apple Music ">
+    </p>
+    <p>Apple celebra la llegada de su conferencia anual de desarrolladores de varias formas, y por supuesto algunas aprovechan sus propios servicios. La compañía ha lanzado hoy <strong>una lista de reproducción de Apple Music llamada 'WWDC23: código cero'</strong>.</p>
+<!-- BREAK 1 -->
+<p>No hay secretos, no hay <em>easter eggs</em> a los que estar atentos: estamos ante una simple selección de canciones que en Apple han seleccionado. Suponemos que para establecer el ambiente precio a la <a href="https://www.applesfera.com/nuevo/apple-wwdc-2023-informacion">WWDC23</a>, o quizás para mostrar antes de hora las canciones que sonarán en plena <em>keynote</em>.</p>
+<!-- BREAK 2 -->
+<h2>El aperitivo de la WWDC23 es musical</h2>
+<div class="article-asset-image article-asset-large">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:65.682326621924%;">
+                  
+  <img alt="wwdc apple music playlist codigo cero" class="" src="https://i.blogs.es/7ce0c7/jueves-01-jun-2023-15_31_01/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Apple ha publicado la lista sólo en su servicio musical, aunque ya hay quien <a href="https://open.spotify.com/playlist/2jFZaAKvzGyxtOrarhiDcf?si=G-2xAr0wTHa3XeLJDRghEQ">la ha reconstruido en Spotify</a> para disfrute de sus usuarios. Entre sus canciones tenemos material de <strong>Ed Sheeran, Dua Lipa, Miley Cyrus o los Jonas Brothers</strong>. Puedes ver la lista completa de canciones aquí:</p>
+<!-- BREAK 3 --><div class="article-asset-rich-content article-asset-normal">
+  <div class="asset-content">
+    <iframe src="https://embed.music.apple.com/es/playlist/wwdc23-c%C3%B3digo-cero/pl.1e055c5c39654b1599f339ad00e68028" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" height="450"></iframe>
+  </div>
+</div>
+<p>Para Apple, esta lista de reproducción es también un "punto de partida para el verano con los mejores artistas del momento". No es algo que veamos cada año, pero con las expectativas e evento histórico que llevamos viendo desde hace unas semanas no está de más.</p>
+<!-- BREAK 4 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos" >
+     <img alt="&quot;Una&#x20;de&#x20;las&#x20;keynotes&#x20;m&#x00E1;s&#x20;largas&#x20;de&#x20;la&#x20;historia&quot;&#x3A;&#x20;Gurman&#x20;caldea&#x20;el&#x20;ambiente&#x20;antes&#x20;de&#x20;la&#x20;WWDC&#x20;m&#x00E1;s&#x20;importante&#x20;de&#x20;los&#x20;&#x00FA;ltimos&#x20;a&#x00F1;os&#x20;" src="https://i.blogs.es/3570a4/1366_2000/375_142.webp" onerror='this.src="https://i.blogs.es/3570a4/1366_2000/375_142.png"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos" class="desvio-title js-desvio-title">&quot;Una de las keynotes más largas de la historia&quot;: Gurman caldea el ambiente antes de la WWDC más importante de los últimos años </a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Recuerda: la <em>keynote</em> de la WWDC23 <strong>empieza a las 19 horas (hora peninsular española) del 5 de junio</strong>. Muy pronto os detallaremos nuestra cobertura especial en directo del evento, con la que podrás estar actualizado de todas las novedades puntualmente. Quedan solamente cuatro días.</p>
+<!-- BREAK 5 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/rumores/complicado-hecho-jamas-apple-the-information-revela-algunos-detalles-retos-produccion-reality-pro">"Lo más complicado jamás hecho por Apple": revelan detalles y retos clave en la producción de las Reality Pro</a></p>
+<!-- BREAK 6 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/eventos/playlist-oficial-wwdc23-esta-disponible-apple-music?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> La playlist oficial de la WWDC23 ya está disponible en Apple Music  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/miguel-lopez?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Miguel López
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Las Reality Pro traen juegos bajo el brazo: los desarrolladores de Beat Saber o No Man's Sky filtran su presencia en la WWDC23]]></title>
+    <link>https://www.applesfera.com/rumores/juegos-reality-pro</link>
+    <guid>https://www.applesfera.com/rumores/juegos-reality-pro</guid>
+    <pubDate>Thu, 01 Jun 2023 16:58:19 +0200</pubDate>
+         <dc:creator>Miguel López</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/c7ec69/1366_2000/1024_2000.jpeg" alt="Las Reality Pro traen juegos bajo el brazo: los desarrolladores de Beat Saber o No Man's Sky filtran su presencia en la WWDC23">
+    </p>
+    <p>Ningún filtrador de renombre ha dicho nada acerca de lo que podríamos ver respecto al <em>gaming</em> con las Reality Pro más allá de que las posibilidades que ofrece el dispositivo, pero a pocos días de la <a href="https://www.applesfera.com/nuevo/apple-wwdc-2023-informacion">WWDC23</a> <strong>ya podemos mencionar algunos juegos concretos</strong> que podríamos ver en <a href="https://www.applesfera.com/nuevo/realityos-caracteristicas-novedades-fecha-lanzamiento">xrOS</a>.</p>
+<!-- BREAK 1 -->
+<p>No es que se hayan filtrado, es que los máximos responsables de su desarrollo han lanzado mensajes en redes sociales que no dejan demasiado lugar a dudas. Si se confirma, el catálogo inicial puede acabar siendo interesante. Echemos un vistazo.</p>
+<!-- BREAK 2 -->
+<h2>Muchos emojis y pocas dudas</h2>
+<div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:81.09756097561%;">
+                      <a href="https://twitter.com/NoMansSky/status/1664259003478573058">
+     
+   <img alt="Tweet By Sean Murray" class="centro_sinmarco" src="https://i.blogs.es/978982/tweet-by-sean-murray/450_1000.webp">
+  </a>
+ 
+         </div>
+      </div>
+</div>
+<p>En primer lugar tenemos a Sean Murray, creador de No Man's Sky, mostrando en Twitter una captura de pantalla que muestra dicho juego <strong>marcado como compatible en macOS y con soporte para realidad virtual</strong>. No es que haya mucha incógnita: se trata de <a href="https://store.steampowered.com/app/275850/No_Mans_Sky/?l=spanish">su web en Steam</a> que ya marca esta compatibilidad. De hecho ya puedes instalarlo en macOS, y puedes hacerlo incluso con un chip Intel. Se cumple la promesa que los desarrolladores lanzaron en la WWDC22.</p>
+<!-- BREAK 3 -->
+<p>No Man's Sky es un juego en el que exploras un universo proceduralmente creado, y por lo tanto infinito sobre el papel. <a href="https://www.vidaextra.com/rpg/fue-fiasco-ahora-se-ha-ganado-carino-todo-universo-tu-aventura-espacial-sonada-esta-game-pass">Tuvo un lanzamiento accidentado</a> hace unos años, pero el tiempo ha hecho que se le trate mejor. Sigue conservando una comunidad de jugadores y <a href="https://www.vidaextra.com/aventura-plataformas/no-mans-sky-mundos-corruptos-nuevas-naves-novedades-interceptor-su-parche-4-2">recibe parches con regularidad</a>.</p>
+<!-- BREAK 4 --><div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:42.708333333333%;">
+                      <a href="https://twitter.com/JaroslavBeck/status/1663468196655931397">
+     
+   <img alt="Tweet By Jaroslav Beck" class="centro_sinmarco" src="https://i.blogs.es/e14a9b/tweet-by-jaroslav-beck/450_1000.webp">
+  </a>
+ 
+         </div>
+      </div>
+</div>
+<p>Luego tenemos a Jaroslav Beck, cofundador y uno de los responsables del juego <strong>Beat Saber</strong> para visores de realidad virtual, lanzando el tuit que puedes ver justo arriba: "El 5 de junio va a ser 🍿🕶️". Muchas, muchísimas posibilidades de ver ese juego como uno de los disponibles para las Reality Pro.</p>
+<!-- BREAK 5 --><div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8l82jq","autoplay":true,"title":"Resident Evil 4 VR Mode - Teaser Trailer para PS VR2", "tag":""}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Y finalmente, aunque esto ya no sea tan directo, hay que tener en cuenta que el nuevo <a href="https://www.vidaextra.com/analisis/review-resident-evil-4-remake-gameplay-experiencia-juego-precio-trailers-para-playstation-xbox-pc"><em>remake</em> de Resident Evil 4</a> va a tener un modo de realidad virtual. Ese juego en sí no se ha lanzado en Mac, pero sí que lo ha hecho <a href="https://www.applesfera.com/juegos-os-x/resident-evil-village-disponible-mac-para-poner-a-prueba-metal-3">Resident Evil Village</a>. Sería raro que con este lanzamiento de realidad virtual tan reciente no hayan pensado en estar también en las Reality Pro.</p>
+<!-- BREAK 6 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.vidaextra.com/analisis/review-resident-evil-4-remake-gameplay-experiencia-juego-precio-trailers-para-playstation-xbox-pc"  target=&quot;_blank&quot;>
+     <img alt="El&#x20;glorioso&#x20;renacer&#x20;del&#x20;horror&#x20;m&#x00E1;s&#x20;visceral&#x20;sumado&#x20;al&#x20;poder&#x00ED;o&#x20;de&#x20;una&#x20;nueva&#x20;generaci&#x00F3;n.&#x20;An&#x00E1;lisis&#x20;de&#x20;Resident&#x20;Evil&#x20;4&#x20;Remake" src="https://i.blogs.es/de618f/resident-evil-4-playstation-xbox-pc/375_142.webp" onerror='this.src="https://i.blogs.es/de618f/resident-evil-4-playstation-xbox-pc/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.vidaextra.com/analisis/review-resident-evil-4-remake-gameplay-experiencia-juego-precio-trailers-para-playstation-xbox-pc" class="desvio-taxonomy-anchor m-crosspost" target=&quot;_blank&quot;>En Vida Extra</a>
+    </div>
+    <a href="https://www.vidaextra.com/analisis/review-resident-evil-4-remake-gameplay-experiencia-juego-precio-trailers-para-playstation-xbox-pc" class="desvio-title js-desvio-title" target=&quot;_blank&quot;>El glorioso renacer del horror más visceral sumado al poderío de una nueva generación. Análisis de Resident Evil 4 Remake</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Es raro: estamos acostumbrados a ver cómo Apple pasa desapercibida en el mundo de los videojuegos, pero <strong>parece que el visor de realidad mixta va a cambiar eso</strong>. Paciencia, <em>gamers</em>: sólo tenemos que esperar hasta el lunes que viene para ver qué estrategia han elegido en Cupertino.</p>
+<!-- BREAK 7 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/juegos-os-x/que-marathon-clasico-mac-90-que-regresa-a-videojuegos-puerta-grande">Los creadores de Halo y Destiny vuelven a su primer gran juego, un inolvidable clásico de Mac de los 90</a></p>
+<!-- BREAK 8 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/rumores/juegos-reality-pro?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Las Reality Pro traen juegos bajo el brazo: los desarrolladores de Beat Saber o No Man's Sky filtran su presencia en la WWDC23 </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/miguel-lopez?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Miguel López
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Así podemos encontrar el Apple ID en nuestro iPhone, iPad o Mac, incluso si no estamos seguros de si tenemos uno]]></title>
+    <link>https://www.applesfera.com/tutoriales/asi-podemos-encontrar-apple-id-nuestro-iphone-ipad-mac-incluso-no-estamos-seguros-tenemos-uno</link>
+    <guid>https://www.applesfera.com/tutoriales/asi-podemos-encontrar-apple-id-nuestro-iphone-ipad-mac-incluso-no-estamos-seguros-tenemos-uno</guid>
+    <pubDate>Thu, 01 Jun 2023 16:01:45 +0200</pubDate>
+         <dc:creator>David Bernal Raspall</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/9d4535/captura-de-pantalla-2022-02-08-a-las-10.27.22/1024_2000.jpeg" alt="Así podemos encontrar el Apple ID en nuestro iPhone, iPad o Mac, incluso si no estamos seguros de si tenemos uno">
+    </p>
+    <p>¿Qué es el <a href="https://www.applesfera.com/nuevo/que-apple-id-sola-cuenta-contrasena-para-controlar-icloud-app-store-forma-sencilla">Apple ID</a>? Es una cuenta fundamental en los dispositivos Apple. Gracias a esta cuenta podemos acceder al App Store, disfrutar de nuestra suscripción en Apple Music, <a href="https://www.applesfera.com/tutoriales/como-hacer-copia-seguridad-icloud-iphone">realizar copias de seguridad</a> o sincronizar información entre nuestro iPhone, iPad o Mac, por citar solo algunos ejemplos. Dada su importancia veamos, para los <strong>más primerizos en las plataformas de Apple, cómo encontrar</strong> nuestro Apple ID.</p>
+<!-- BREAK 1 -->
+<h2>Yuhuu… Apple ID… ¿Dónde estás?</h2>
+<div class="article-asset-video article-asset-large article-asset-center">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8062pk","autoplay":true,"title":"CÓMO CONFIGURAR un IPHONE, IPAD o IMAC  MACBOOK BIEN"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Puedes <a href="https://www.applesfera.com/tutoriales/asi-puedes-cambiar-tu-id-apple-nuevo-correo-contrasena-direccion-telefono">cambiar tu ID de Apple</a> desde el iPhone fácilmente.Cuando configuramos nuestro iPhone, iPad o Apple Watch por primera vez se nos pide que <strong>introduzcamos nuestro Apple ID o que creemos uno nuevo</strong>. Este paso, sin embargo, puede ignorarse, por lo que podemos acabar con un dispositivo sin su cuenta más importante activa.</p>
+<!-- BREAK 2 -->
+<p><strong>Encontrar nuestro Apple ID en un iPhone o iPad</strong> es de lo más fácil, los pasos a seguir son los siguientes:</p>
+<!-- BREAK 3 -->
+<ol>
+  <li>Abrimos la app <em>Ajustes</em> en nuestro iPhone o iPad.</li>
+  <li>En la parte superior tocamos nuestro nombre.</li>
+  <li>Bajo nuestro nombre ha de aparecer una dirección de correo electrónico, este es nuestro Apple ID.</li>
+</ol>
+
+<p><strong>En el Mac</strong> los pasos son muy similares, concretamente estos:</p>
+
+<ol>
+  <li>En el menú Apple () elegimos <em>Preferencias del Sistema</em>.</li>
+  <li>Entramos en <em>ID de Apple</em>.</li>
+  <li>De nuevo, bajo nuestra foto y nombre, ha de aparecer un correo electrónico: nuestro Apple ID.</li>
+</ol>
+
+<h2>Tengo el Apple ID, pero la contraseña…</h2>
+<div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:75.016789791807%;">
+                  
+  <img alt="Olieman Eth J7mgbt2hym8 Unsplash" class="centro_sinmarco" src="https://i.blogs.es/b19de4/olieman-eth-j7mgbt2hym8-unsplash/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Llegados aquí queda otra importante pregunta por resolver. ¿Y cuál es la contraseña? Antes de nada <strong>repasemos nuestros repositorios de contraseñas habituales</strong>. Puede que la anotaremos en nuestra agenda, en la app Notas o en un post-it. Si no la encontramos lo mejor que podemos hacer es cambiarla. En nuestro iPhone o iPad lo haremos así:</p>
+<!-- BREAK 4 -->
+<ol>
+  <li>Abrimos la app <em>Ajustes</em> en nuestro iPhone o iPad.</li>
+  <li>En la parte superior tocamos nuestro nombre.</li>
+  <li>Tocamos en <em>Contraseña y seguridad</em>.</li>
+  <li>Tocamos en <em>Cambiar contraseña</em>.</li>
+</ol>
+
+<p><strong>En el Mac</strong> los pasos a seguir son los siguientes:</p>
+
+<ol>
+  <li>En el menú Apple () elegimos <em>Preferencias del Sistema</em>.</li>
+  <li>Entramos en <em>ID de Apple</em>.</li>
+  <li>Tocamos en <em>Contraseña y seguridad</em>.</li>
+  <li>Tocamos en <em>Cambiar contraseña</em>.</li>
+</ol>
+
+<h2>Nada, que no aparece ningún Apple ID</h2>
+<div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:75.093509350935%;">
+                  
+  <img alt="Shiwa Id Tcgh01bvf9u Unsplash" class="centro_sinmarco" src="https://i.blogs.es/bf2a35/shiwa-id-tcgh01bvf9u-unsplash/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Al acudir a la app Ajustes o a Preferencias del Sistema, es posible que no aparezca nuestro nombre en la parte superior. Esto significa que la sesión con el Apple ID, suponiendo que tuviéramos una, no está iniciada. Si estamos seguros de tenerla creada, simplemente <strong>introducimos el correo y la contraseña para iniciar sesión</strong>.</p>
+<!-- BREAK 5 -->
+<p>Si tenemos dudas de tener un Apple ID, lo mejor que podemos hacer, antes de crear uno nuevo, <strong>es comprobar su existencia</strong>. Podemos hacerlo en el <a href="https://iforgot.apple.com/appleid#!&section=appleid">sitio web de Apple dedicado</a>, donde con introducir el nombre, los apellidos y la dirección de correo electrónico podremos comprobar si esta es un Apple ID. A partir de aquí podemos decidir utilizarlo en nuestros dispositivos o si preferimos <a href="https://www.applesfera.com/tutoriales/como-crear-cuenta-icloud">crear uno nuevo</a>.</p>
+<!-- BREAK 6 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/tutoriales/como-crear-cuenta-icloud" >
+     <img alt="C&#x00F3;mo&#x20;crear&#x20;una&#x20;cuenta&#x20;en&#x20;iCloud&#x20;desde&#x20;cualquier&#x20;dispositivo" src="https://i.blogs.es/42a58c/hero/375_142.webp" onerror='this.src="https://i.blogs.es/42a58c/hero/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/tutoriales/como-crear-cuenta-icloud" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/tutoriales/como-crear-cuenta-icloud" class="desvio-title js-desvio-title">Cómo crear una cuenta en iCloud desde cualquier dispositivo</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Como hemos empezado diciendo el Apple ID es la cuenta más importante de nuestros dispositivos. Una cuenta que, si tenemos dudas de su correcta configuración o incluso existencia, podemos <strong>localizar de forma muy sencilla</strong>.</p>
+<!-- BREAK 7 -->
+<p>Imagen | <a href="https://unsplash.com/@shiwa_id?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shiwa ID</a>, <a href="https://unsplash.com/@moneyphotos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">olieman.eth</a></p>
+<!-- BREAK 8 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/tutoriales/como-saber-tengo-virus-iphone-1">Por qué es muy difícil (o casi imposible) que tengas un virus en tu iPhone</a></p>
+<!-- BREAK 9 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/tutoriales/asi-podemos-encontrar-apple-id-nuestro-iphone-ipad-mac-incluso-no-estamos-seguros-tenemos-uno?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Así podemos encontrar el Apple ID en nuestro iPhone, iPad o Mac, incluso si no estamos seguros de si tenemos uno </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/david-bernal-raspall?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       David Bernal Raspall
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Apple TV+ se queda con los suscriptores que Netflix pierde: crece un 14% en Reino Unido mientras su rival se hunde]]></title>
+    <link>https://www.applesfera.com/servicios-apple/apple-tv-adelanta-derecha-a-todos-servicios-reino-unido-crece-14-resto-pierde-suscriptores</link>
+    <guid>https://www.applesfera.com/servicios-apple/apple-tv-adelanta-derecha-a-todos-servicios-reino-unido-crece-14-resto-pierde-suscriptores</guid>
+    <pubDate>Thu, 01 Jun 2023 13:36:26 +0200</pubDate>
+         <dc:creator>Fran Bouzas</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/1c977c/diseno-sin-titulo/1024_2000.jpeg" alt="Apple TV+ se queda con los suscriptores que Netflix pierde: crece un 14% en Reino Unido mientras su rival se hunde">
+    </p>
+    <p>Cuando los de Cupertino anunciaron allá por noviembre de 2019 su servicio A<a href="https://www.applesfera.com/nuevo/todos-proximos-estrenos-apple-tv-series-peliculas-documentales-que-veremos-su-catalogo">pple TV+</a> <strong>algunos teníamos nuestras dudas sobre su viabilidad</strong>. Partían prácticamente de cero, el catálogo era escaso, la cadencia de nuevo contenido demasiado baja y su precio tan solo era ligeramente inferior al de Netflix, que por aquel entonces era la plataforma de referencia.</p>
+<!-- BREAK 1 -->
+<p>Ahora estamos a mediados de 2023. Han pasado casi cuatro años, y ahí sigue. Es como <strong>un niño pequeño al que hemos visto crecer</strong>. Su catálogo ya no es tan escaso, la mayoría son exitazos, y cada vez lo amplían más. No paran de recibir premios, y cada vez merece más la pena suscribirse.</p>
+<!-- BREAK 2 -->
+<h2>Lento pero seguro</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8l8qqb","autoplay":true,"title":"Hijack — Official Trailer   Apple TV+", "tag":"apple tv"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Según una noticia de <a href="https://appleinsider.com/articles/23/06/01/apple-tv-gains-uk-subscribers-as-netflix-disney-dip">Appleinsider</a>, todos los servicios de streaming en Reino Unido han perdido suscriptores. Todos, menos uno: Apple TV+. El servicio de los de Cupertino <strong>ha conseguido un aumento de casi el 14%</strong> entre finales de 2022 y principios de 2023. Todo un hito teniendo en cuenta que fue justo ahí cuando aumentó su precio de los cinco a los siete euros, sobre todo si lo comparamos con las pérdidas del resto de competidores.</p>
+<!-- BREAK 3 -->
+<p>Apple está practicando eso de “cocinar a fuego lento”. La verdad es que poco a poco han ido haciendo de su servicio algo extraordinario. No creo que todavía haya alcanzado su máximo potencial, pero <strong>es la viva expresión de que vale más calidad que cantidad</strong>. A nadie le importa que una plataforma tenga 15 millones de películas si el 95% no le interesan. El modelo que sigue TV+ es el de un catálogo menor, pero de calidad y constante.</p>
+<!-- BREAK 4 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/servicios-apple/apple-tv-quiere-ganarse-2023-estas-peliculas-confirmadas-para-ano-que-viene" >
+     <img alt="Apple&#x20;TV&#x2B;&#x20;quiere&#x20;ganarse&#x20;2023&#x3A;&#x20;estas&#x20;son&#x20;las&#x20;pel&#x00ED;culas&#x20;ya&#x20;confirmadas&#x20;para&#x20;el&#x20;a&#x00F1;o&#x20;que&#x20;viene" src="https://i.blogs.es/62bacf/1366_2000/375_142.webp" onerror='this.src="https://i.blogs.es/62bacf/1366_2000/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/servicios-apple/apple-tv-quiere-ganarse-2023-estas-peliculas-confirmadas-para-ano-que-viene" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/servicios-apple/apple-tv-quiere-ganarse-2023-estas-peliculas-confirmadas-para-ano-que-viene" class="desvio-title js-desvio-title">Apple TV+ quiere ganarse 2023: estas son las películas ya confirmadas para el año que viene</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>De todos modos, aún queda mucho por hacer para Apple. Van por un camino muy bueno, y esperemos que se mantenga en el tiempo. Sus <a href="https://www.applesfera.com/nuevo/todos-proximos-estrenos-apple-tv-series-peliculas-documentales-que-veremos-su-catalogo">últimos estrenos</a> son una pasada, y<strong> todo apunta a que seguirá siendo así</strong>.</p>
+<!-- BREAK 5 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/nuevo/todos-proximos-estrenos-apple-tv-series-peliculas-documentales-que-veremos-su-catalogo">Apple TV+ y sus estrenos: las próximas series, películas y documentales que veremos en su catálogo</a></p>
+<!-- BREAK 6 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/servicios-apple/apple-tv-adelanta-derecha-a-todos-servicios-reino-unido-crece-14-resto-pierde-suscriptores?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Apple TV+ se queda con los suscriptores que Netflix pierde: crece un 14% en Reino Unido mientras su rival se hunde </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/francisco-bouzas?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Fran Bouzas
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Estos auriculares Bluetooth con cancelación de ruido y 60 horas de autonomía son una buena alternativa a los Beats por poco dinero ]]></title>
+    <link>https://www.applesfera.com/seleccion/estos-auriculares-bluetooth-cancelacion-ruido-60-horas-autonomia-buena-alternativa-a-beats-poco-dinero</link>
+    <guid>https://www.applesfera.com/seleccion/estos-auriculares-bluetooth-cancelacion-ruido-60-horas-autonomia-buena-alternativa-a-beats-poco-dinero</guid>
+    <pubDate>Thu, 01 Jun 2023 13:30:39 +0200</pubDate>
+         <dc:creator>Alberto García</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/573346/soundcore-life-q30/1024_2000.jpeg" alt="Estos auriculares Bluetooth con cancelación de ruido y 60 horas de autonomía son una buena alternativa a los Beats por poco dinero ">
+    </p>
+    <p>Anker lleva mucho tiempo metida en el terreno de los auriculares inalámbricos y sus últimos modelos Soundcore han conseguido llamar la atención por sus características y, sobre todo, por su precio. Ahora, los <strong>Soundcore Life Q30</strong> vuelven a estar rebajados casi a su precio mínimo histórico en Amazon: <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB08HMWZBXC%2F&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB08HMWZBXC%2F&category=seleccion&asc_campaign=caduco">59,99 euros</a>.</p>
+<!-- BREAK 1 --><!-- PIVOT START -->
+<div class="pivot-ecommerce-container">
+ <div class="pivot-ecommerce">
+  <div class="pivot-ecommerce-figure">
+  <a href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB08HMWZBXC%3Ftag%3Dapplesfera-21%26linkCode%3Dogi%26th%3D1%26psc%3D1&amp;category=seleccion&amp;pivot=1&amp;asc_campaign=caduco">
+   <img alt="Soundcore de Anker Q30 Auriculares Bluetooth cancelación de Ruido Activa híbrida y Varios Modos, Sonido de Alta resolución, 40 h de reproducción, Llamadas nítidas, Carga rápida, Almohadillas Suaves" src="https://m.media-amazon.com/images/I/41I0xBr5kKL._SL500_.jpg">
+  </a>
+  </div>
+  <div class="pivot-ecommerce-summary">
+   <p class="pivot-ecommerce-desc">Soundcore de Anker Q30 Auriculares Bluetooth cancelación de Ruido Activa híbrida y Varios Modos, Sonido de Alta resolución, 40 h de reproducción, Llamadas nítidas, Carga rápida, Almohadillas Suaves</p>
+   <div class="pivot-actions js-pivot-actions">
+    <div class="pivot-actions-row">
+ <a rel="nofollow" target="_blank" data-asin="B08HMWZBXC" data-store="Amazon" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB08HMWZBXC%3Ftag%3Dapplesfera-21%26linkCode%3Dogi%26th%3D1%26psc%3D1&amp;category=seleccion&amp;pivot=1&amp;asc_campaign=caduco" title="Precio actualizado hoy" class="pivot-action-primary js-pivot-action">Hoy en Amazon por 59,99&euro;</a>
+</div>
+<div class="pivot-actions-row">
+ </div>
+   </div>
+  </div>
+ </div>
+</div>
+<!-- PIVOT END -->
+<h2>Comprar auriculares inalámbricos Anker Soundcore Life Q30 al mejor precio</h2>
+<div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:61.538461538462%;">
+                  
+  <img alt="Anker Soundcore Life Q30" class="centro_sinmarco" src="https://i.blogs.es/36fba1/anker-soundcore-life-q30/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Con un precio de venta al público recomendado de 79,99 euros, los auriculares inalámbricos Anker Soundcore Life Q30 están rebajados casi a precio mínimo histórico con el <strong>descuento de 20 euros</strong>, quedándose finalmente por <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB08HMWZBXC%2F&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB08HMWZBXC%2F&category=seleccion&asc_campaign=caduco">59,99 euros</a>.</p>
+<!-- BREAK 2 -->
+<p>Estos <a href="https://www.applesfera.com/seleccion/guia-compra-auriculares-bluetooth-cables-8-alternativas-a-airpods-apple">auriculares inalámbricos</a> de Anker cuentan con diafragmas de 40 milímetros para potenciar el sonido y conseguir graves intensos y agudos muy bien definidos. También incluyen <a href="https://www.xatakahome.com/altavoces/cancelacion-activa-ruido-anc-que-como-funciona">cancelación activa de ruido</a> <strong>(ANC) de hasta el 95%</strong> gracias a los dos micrófonos con detección de ruido.</p>
+<!-- BREAK 3 --><div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x80i5sv","autoplay":true,"title":"¿Son unos auriculares caros siempre mejor que unos económicos?", "tag":"auriculares"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>La autonomía alcanza las 40 horas con la cancelación activa de ruido y hasta las <strong>60 horas</strong> si la tenemos desactivada. Conectando los auriculares a un cargador <a href="https://www.xataka.com/basics/usb-type-c-que-exactamente-que-se-diferencia-resto">USB-C</a>, podemos recargar la batería <strong>hasta cuatro horas en tan sólo 5 minutos</strong>. Además, y algo que siempre viene bien para los viajes, los auriculares vienen en una bolsa de transporte con un formato muy compacto.</p>
+<!-- BREAK 4 -->
+<h2><strong>Más ofertas</strong></h2>
+
+<p>Si te haces de<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fpruebaprime&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fpruebaprime&category=seleccion&asc_campaign=caduco"><u> Amazon Prime</u></a>, dispones de 30 días de prueba gratis (después 49,90 euros al año) para disfrutar de envíos rápidos gratis, accesorio prioritario a ofertas, servicios como<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.primevideo.com%2F&category=seleccion" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.primevideo.com%2F&category=seleccion"><u> Prime Video</u></a>,<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fgp%2Fdmusic%2Fpromotions%2FAmazonMusicUnlimited&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fgp%2Fdmusic%2Fpromotions%2FAmazonMusicUnlimited&category=seleccion&asc_campaign=caduco"><u> Prime Music</u></a> y almacenamiento de fotos ilimitado. Además, si eres estudiante, hacerte de<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fjoinstudent&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fjoinstudent&category=seleccion&asc_campaign=caduco"><u> Prime Student</u></a> cuesta la mitad y dispones de 90 días de prueba. También puedes probar gratis durante 30 días servicios como<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fkindle-dbs%2Fhz%2Fsignup&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fkindle-dbs%2Fhz%2Fsignup&category=seleccion&asc_campaign=caduco"><u> Kindle Unlimited</u></a> o<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fhz%2Faudible%2Fmlp%2Fmdp%2Fdiscovery&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fhz%2Faudible%2Fmlp%2Fmdp%2Fdiscovery&category=seleccion&asc_campaign=caduco"><u> Audible</u></a>.</p>
+<!-- BREAK 5 -->
+<p><em>Puedes estar al día y en cada momento informado de todas las novedades del mundo Apple y las ofertas de Applesfera Selección en nuestros perfiles de</em><a href="https://twitter.com/applesfera"><em> </em><u><em>Twitter</em></u></a><em> y</em><a href="https://es-es.facebook.com/Applesfera/"><em> </em><u><em>Facebook</em></u></a> <em>y en nuestro canal de</em><a href="https://t.me/applesferaseleccion"><em> </em><u><em>Telegram</em></u></a><em>.</em></p>
+<!-- BREAK 6 -->
+<p><em>Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Applesfera</em>.</p>
+<!-- BREAK 7 -->
+<p><strong>Imágenes</strong> | Anker</p>
+
+<p>En Applesfera | <a href="https://www.applesfera.com/curiosidades/consiguio-idea-millon-dolares-perdio-steve-jobs-casi-se-convierte-rey-hojas-calculo-gracias-a-este-invento-lotus">Consiguió la idea del millón de dólares pero la perdió: Steve Jobs casi se convierte en el rey de las hojas de cálculo gracias a este invento de Lotus</a></p>
+<!-- BREAK 8 -->
+<p>En Applesfera Selección | <a href="https://www.applesfera.com/seleccion/iphone-13-a-precio-minimo-historico-bombazo-dia-potente-telefono-mucha-vida-delante">El iPhone 13 a precio mínimo histórico es el bombazo del día, un potente teléfono con mucha vida por delante</a></p>
+<!-- BREAK 9 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/seleccion/estos-auriculares-bluetooth-cancelacion-ruido-60-horas-autonomia-buena-alternativa-a-beats-poco-dinero?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Estos auriculares Bluetooth con cancelación de ruido y 60 horas de autonomía son una buena alternativa a los Beats por poco dinero  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/alberto-garcia?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Alberto García
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[El iPhone 13 a precio mínimo histórico es el bombazo del día, un potente teléfono con mucha vida por delante]]></title>
+    <link>https://www.applesfera.com/seleccion/iphone-13-a-precio-minimo-historico-bombazo-dia-potente-telefono-mucha-vida-delante</link>
+    <guid>https://www.applesfera.com/seleccion/iphone-13-a-precio-minimo-historico-bombazo-dia-potente-telefono-mucha-vida-delante</guid>
+    <pubDate>Thu, 01 Jun 2023 12:32:03 +0200</pubDate>
+         <dc:creator>Jesús Quesada</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/4110bf/iphone-13/1024_2000.jpeg" alt="El iPhone 13 a precio mínimo histórico es el bombazo del día, un potente teléfono con mucha vida por delante">
+    </p>
+    <p>Si bien los dispositivos de Apple son caros, lo bueno es que suelen durar bastantes años ofreciendo un buen rendimiento, lo que permite adquirir modelos de generaciones anteriores sin miedo a que se vayan a quedar desfasados en poco tiempo. El <strong>iPhone 13</strong> tiene mucha vida por delante, y la versión de 128 GB en color blanco está rebaja en Amazon a su precio mínimo histórico de <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2FApple-iPhone-13-128-GB%2Fdp%2FB09G98QYSD&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2FApple-iPhone-13-128-GB%2Fdp%2FB09G98QYSD&category=seleccion&asc_campaign=caduco">744,99 euros</a>.</p>
+<!-- BREAK 1 --><!-- PIVOT START -->
+<div class="pivot-ecommerce-container">
+ <div class="pivot-ecommerce">
+  <div class="pivot-ecommerce-figure">
+  <a href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09G98QYSD%3Ftag%3Dapplesfera-21%26linkCode%3Dogi%26th%3D1%26psc%3D1&amp;category=seleccion&amp;pivot=1&amp;asc_campaign=caduco">
+   <img alt="Apple iPhone 13 (128 GB) - en Blanco Estrella" src="https://m.media-amazon.com/images/I/3111ngoeB4L._SL500_.jpg">
+  </a>
+  </div>
+  <div class="pivot-ecommerce-summary">
+   <p class="pivot-ecommerce-desc">Apple iPhone 13 (128 GB) - en Blanco Estrella</p>
+   <div class="pivot-actions js-pivot-actions">
+    <div class="pivot-actions-row">
+ <a rel="nofollow" target="_blank" data-asin="B09G98QYSD" data-store="Amazon" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09G98QYSD%3Ftag%3Dapplesfera-21%26linkCode%3Dogi%26th%3D1%26psc%3D1&amp;category=seleccion&amp;pivot=1&amp;asc_campaign=caduco" title="Precio actualizado hoy" class="pivot-action-primary js-pivot-action">Hoy en Amazon por 819,00&euro;</a>
+</div>
+<div class="pivot-actions-row">
+   <a rel="nofollow" target="_blank" data-asin="" data-store="MediaMarkt por" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.mediamarkt.es%2Fes%2Fproduct%2F_apple-iphone-13-blanco-estrella-128-gb-5g-61-oled-super-retina-xdr-chip-a15-bionic-ios-1518039.html&amp;category=seleccion&amp;pivot=1" title="Precio de venta al público a fecha de publicación" class="pivot-action-secondary js-pivot-action">PVP en MediaMarkt por 859,00&euro;</a>
+   <a rel="nofollow" target="_blank" data-asin="" data-store="Macnificos por" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.macnificos.com%2Fapple-iphone-13-128gb-blanco-estrella%23sku-APP6035&amp;category=seleccion&amp;pivot=1" title="Precio de venta al público a fecha de publicación" class="pivot-action-secondary js-pivot-action">PVP en Macnificos por 839,00&euro;</a>
+   <a rel="nofollow" target="_blank" data-asin="" data-store="El Corte Inglés por" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.elcorteingles.es%2Felectronica%2FA41084752-apple-iphone-13-movil-libre%2F%3Fcolor%3DBlanco%2520estrella%26s%3DiPhone%252013%2520128%2520GB%26hierarchy%3D%26deep_search%3D%26stype%3Dtext_box&amp;category=seleccion&amp;pivot=1" title="Precio de venta al público a fecha de publicación" class="pivot-action-secondary js-pivot-action">PVP en El Corte Inglés por 859,00&euro;</a>
+ </div>
+   </div>
+  </div>
+ </div>
+</div>
+<!-- PIVOT END -->
+<h2>Comprar el teléfonoApple iPhone 13 al mejor precio</h2>
+<div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:66.471449487555%;">
+                  
+  <img alt="iPhone 13 en análisis" class="centro_sinmarco" src="https://i.blogs.es/0ae020/1366_2000_webp-5-/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Con un precio de venta al público recomendado de 909 euros en la tienda oficial Apple Store y proveedores autorizados, se puede adquirir el iPhone 13 de 128 GB con un gran <strong>descuento del 18%</strong> en Amazon, que supone un ahorro de más de 160 euros, quedándose a su precio mínimo histórico de <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2FApple-iPhone-13-128-GB%2Fdp%2FB09G98QYSD&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2FApple-iPhone-13-128-GB%2Fdp%2FB09G98QYSD&category=seleccion&asc_campaign=caduco">744,99 euros</a>.</p>
+<!-- BREAK 2 --><div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:51.451905626134%;">
+                  
+  <img alt="Iphone 13 En Oferta" class="centro_sinmarco" src="https://i.blogs.es/5c1388/iphone-13-en-oferta/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>El iPhone 13 es uno de los smartphones de la pasada generación de teléfonos móviles "inteligentes" de Apple, que destaca por su <strong>pantalla Super Retina XDR OLED de 6,1 pulgadas</strong> de alta resolución compatible con alto rango dinámico HDR10 y Dolby Vision, así como su autonomía de hasta 19 horas reproduciendo vídeo.</p>
+<!-- BREAK 3 -->
+<p>Integra el chip <a href="https://www.applesfera.com/iphone/chip-a15-bionic-caracteristicas-especificaciones-tecnicas">A15 Bionic</a> para que no se le resista ninguna aplicación disponible en la App Store y para que el sistema operativo <a href="https://www.applesfera.com/nuevo/ios-16-caracteristicas-novedades-fecha-lanzamiento">iOS 16</a> funcione de la manera más fluida posible. Viene con doble cámara trasera de 12 MP que son capaces de grabar en alta resolución 4K Dolby Vision.</p>
+<!-- BREAK 4 --><div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x84ovxo","autoplay":true,"title":"iPHONE 13 ANÁLISIS: El iPhone 12 que tenía que haber llegado hace un año", "tag":""}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>La cámara frontal es TrueDepth de 12 MP e integra el sistema de seguridad basado en reconocimiento facial Face ID. El smartphone tiene resistencia IP68, <strong>conexión 5G</strong>, <a href="https://www.xataka.com/especiales/que-wifi-6-que-va-a-mejorar-tu-red-wifi-casa-cuando-te-conectes-a-publica">WiFi 6</a> y un robusto diseño con Ceramic Shield.</p>
+<!-- BREAK 5 --><div class="hook js-hook m-hook-redesign">
+ <div class="hook-content-container">
+  <header class="hook-header-container">
+   <div class="hook-header js-hook-header">
+    <a href="http://bit.ly/41tA433" rel="nofollow, sponsored" target="_blank">
+     <div class="article-asset-image article-asset-small">
+      <div class="asset-content">
+              
+  <img alt="Back Market" class="centro_sinmarco" src="https://i.blogs.es/7228b6/bm_logo/450_1000.webp">
+ 
+      </div>
+     </div>
+    </a>
+   </div>
+  </header>
+  <div class="hook-content">
+   <div class="hook-content-img-container js-hook-content-img-container">
+    <a href="http://bit.ly/41tA433" rel="nofollow, sponsored" target="_blank">
+     <div class="article-asset-image article-asset-small">
+      <div class="asset-content">
+              
+  <img alt="Back Market" class="centro_sinmarco" src="https://i.blogs.es/ac0d0a/iphone/450_1000.webp">
+ 
+      </div>
+     </div>
+    </a>
+   </div>
+   <div><p>Consigue <strong>los mejores ofertones en iPhone 12 </strong>pasándote al <strong>reacondicionado</strong>: lo mejor de la electrónica, renovado por profesionales, <strong>con 2 años de garantía</strong>, 30 días de prueba y atención al cliente. <strong>Ahorra en impacto al planeta </strong>y ahorra con los mejores precios en tecnología en Back Market.</p>
+   </div>
+  </div>
+  <footer class="hook-footer-container js-hook-footer-container">
+   <a href="http://bit.ly/41tA433" class="btn-primary m-btn-block" rel="nofollow, sponsored" target="_blank">Desde 429€</a>
+  </footer>
+  <span class="hook-disclaimer">Consejo ofrecido por la marca</span>
+ </div>
+</div>
+<h2>Más ofertas</h2>
+
+<p>Si te haces de <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fpruebaprime&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fpruebaprime&category=seleccion&asc_campaign=caduco">Amazon Prime</a>, dispones de 30 días de prueba gratis (después 49,90 euros al año) para disfrutar de envíos rápidos gratis, accesorio prioritario a ofertas, servicios como <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.primevideo.com%2F&category=seleccion" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.primevideo.com%2F&category=seleccion">Prime Video</a>, <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fgp%2Fdmusic%2Fpromotions%2FAmazonMusicUnlimited&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fgp%2Fdmusic%2Fpromotions%2FAmazonMusicUnlimited&category=seleccion&asc_campaign=caduco">Prime Music</a> y almacenamiento de fotos ilimitado. Además, si eres estudiante, hacerte de <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fjoinstudent&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fjoinstudent&category=seleccion&asc_campaign=caduco">Prime Student</a> cuesta la mitad y dispones de 90 días de prueba. También puedes probar gratis durante 30 días servicios como <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fkindle-dbs%2Fhz%2Fsignup&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fkindle-dbs%2Fhz%2Fsignup&category=seleccion&asc_campaign=caduco">Kindle Unlimited</a> o <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fhz%2Faudible%2Fmlp%2Fmdp%2Fdiscovery&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fhz%2Faudible%2Fmlp%2Fmdp%2Fdiscovery&category=seleccion&asc_campaign=caduco">Audible</a>.</p>
+<!-- BREAK 6 -->
+<blockquote>Puedes estar al día y en cada momento informado de todas las novedades del mundo Apple y las ofertas de Applesfera Selección en nuestros perfiles de <a href="https://twitter.com/applesfera">Twitter</a>, <a href="https://es-es.facebook.com/Applesfera/">Facebook</a> y <a href="https://t.me/applesferaseleccion">Telegram</a></blockquote>
+
+<p><em>Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Applesfera</em>.</p>
+<!-- BREAK 7 -->
+<p><strong>Imágenes</strong> | Apple y Applesfera</p>
+
+<p>En Applesfera | <a href="https://www.applesfera.com/tutoriales/se-desactiva-wifi-tu-iphone-estas-soluciones-a-este-fallo-comun">¿Se desactiva el WiFi de tu iPhone? Estas son las soluciones a este fallo común</a></p>
+<!-- BREAK 8 -->
+<p>En Applesfera Selección | <a href="https://www.applesfera.com/seleccion/que-iphone-comprar-2020-guia-para-elegir-smartphone-apple-adecuado-para-ti">Los mejores iPhone que puedes comprar en 2023&nbsp;</a></p>
+<!-- BREAK 9 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/seleccion/iphone-13-a-precio-minimo-historico-bombazo-dia-potente-telefono-mucha-vida-delante?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> El iPhone 13 a precio mínimo histórico es el bombazo del día, un potente teléfono con mucha vida por delante </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/jesus-quesada?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Jesús Quesada
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Apple lanza la segunda beta de iOS 16.6 a tres días de iOS 17: llegan las últimas mejoras en seguridad ]]></title>
+    <link>https://www.applesfera.com/ios/apple-lanza-segunda-beta-ios-16-6-a-tres-dias-ios-17-llegan-ultimas-mejoras-seguridad</link>
+    <guid>https://www.applesfera.com/ios/apple-lanza-segunda-beta-ios-16-6-a-tres-dias-ios-17-llegan-ultimas-mejoras-seguridad</guid>
+    <pubDate>Thu, 01 Jun 2023 12:10:56 +0200</pubDate>
+         <dc:creator>Fran Bouzas</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/bb586b/diseno-sin-titulo/1024_2000.jpeg" alt="Apple lanza la segunda beta de iOS 16.6 a tres días de iOS 17: llegan las últimas mejoras en seguridad ">
+    </p>
+    <p>Tan solo faltan unos días para que asistamos a <strong>una de las keynotes más esperadas de los últimos años</strong>: la <a href="https://www.applesfera.com/nuevo/apple-wwdc-2023-informacion">WWDC23</a>. Apple presentará toda una serie de actualizaciones entre las que se encuentra <a href="https://www.applesfera.com/nuevo/ios-17-caracteristicas-novedades-fecha-lanzamiento">iOS 17</a>. También se esperan algunos <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos">nuevos Mac</a> y las famosas <a href="https://www.applesfera.com/nuevo/apple-glasses-caracteristicas-fecha-lanzamiento-precio">Reality Pro</a>.</p>
+<!-- BREAK 1 -->
+<p>Sin embargo, hoy los de Cupertino han lanzado la segunda beta de iOS 16.6, y a tan solo tres días de presentar iOS 17. La primera <a href="https://www.applesfera.com/ios/llega-primera-beta-ios-16-6-importante-mejora-seguridad">se lanzó</a> hace unas semanas, e <strong>incluía una novedad de seguridad bastante interesante</strong> que nos asegura que estamos hablando con quien de verdad queremos hablar en iMessage. Algo que tiene sentido si tenemos en cuenta el actual contexto de espionajes que se están dando con el software israelí <a href="https://www.applesfera.com/ios/nso-group-afirma-poder-acceder-a-datos-icloud-otros-servicios-nube-pegasus">Pegasus</a>.</p>
+<!-- BREAK 2 -->
+<h2>Optimización, seguridad, y una ausencia</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8l6ihl","autoplay":true,"title":"La IA silenciosa de Apple que llevará iOS 17 - Las Charlas de Applesfera", "tag":"ia"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Si tienes el perfil de betas instalado en tu iPhone, <strong>ya puedes descargar la segunda de iOS 16.6</strong> en el apartado "Actualización de software". En principio no trae ninguna novedad reseñable. Entendemos que fundamentalmente serán mejoras de estabilidad, batería y demás.</p>
+<!-- BREAK 3 -->
+<p>Un dato curioso es que en la primera beta aparecía la opción de Contact Key Verification, que es lo que te explicaba hace un momento. No funcionaba ni se podía hacer nada con ella, pero estaba en Ajustes. <strong>En esta segunda ha desaparecido</strong>. No sabemos muy bien por qué. Quizás Apple quiera reservárselo para iOS 17, o lo mismo lo lanzan más adelante, pero ya no está.</p>
+<!-- BREAK 4 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/tutoriales/como-instalar-primera-beta-ios-16-tu-iphone" >
+     <img alt="C&#x00F3;mo&#x20;instalar&#x20;la&#x20;beta&#x20;de&#x20;iOS&#x20;16.6&#x20;y&#x20;probar&#x20;sus&#x20;novedades&#x20;antes&#x20;que&#x20;nadie" src="https://i.blogs.es/df5d3e/ios-16-6/375_142.webp" onerror='this.src="https://i.blogs.es/df5d3e/ios-16-6/375_142.jpg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/tutoriales/como-instalar-primera-beta-ios-16-tu-iphone" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/tutoriales/como-instalar-primera-beta-ios-16-tu-iphone" class="desvio-title js-desvio-title">Cómo instalar la beta de iOS 16.6 y probar sus novedades antes que nadie</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Actualizaremos este artículo si encontramos alguna otra novedad en esta actualización. Hasta entonces, solo nos queda esperar a que se lance la versión final, que <strong>será eclipsada por un iOS 17 al que veremos el próximo lunes</strong>. Aun así, es recomendable actualizar siempre a la última versión disponible.</p>
+<!-- BREAK 5 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/nuevo/ios-17-caracteristicas-novedades-fecha-lanzamiento">iOS 17: todo lo que sabemos del sistema operativo que instalaremos en nuestros iPhone en 2023</a></p>
+<!-- BREAK 6 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/ios/apple-lanza-segunda-beta-ios-16-6-a-tres-dias-ios-17-llegan-ultimas-mejoras-seguridad?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Apple lanza la segunda beta de iOS 16.6 a tres días de iOS 17: llegan las últimas mejoras en seguridad  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/francisco-bouzas?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Fran Bouzas
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Consiguió la idea del millón de dólares pero la perdió: Steve Jobs casi se convierte en el rey de las hojas de cálculo gracias a este invento de Lotus ]]></title>
+    <link>https://www.applesfera.com/curiosidades/consiguio-idea-millon-dolares-perdio-steve-jobs-casi-se-convierte-rey-hojas-calculo-gracias-a-este-invento-lotus</link>
+    <guid>https://www.applesfera.com/curiosidades/consiguio-idea-millon-dolares-perdio-steve-jobs-casi-se-convierte-rey-hojas-calculo-gracias-a-este-invento-lotus</guid>
+    <pubDate>Thu, 01 Jun 2023 11:00:38 +0200</pubDate>
+         <dc:creator>Miguel López</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/04d266/steve-jobs-hojas-de-calculo/1024_2000.jpeg" alt="Consiguió la idea del millón de dólares pero la perdió: Steve Jobs casi se convierte en el rey de las hojas de cálculo gracias a este invento de Lotus ">
+    </p>
+    <p>Todos los que hemos trabajado o estudiado con un ordenador sabemos lo que son las hojas de cálculo. Este tipo de documento es considerado uno de los mejores inventos de la informática moderna, gracias a su capacidad para hacer operaciones con grandes cantidades de datos y poder organizarlos de forma dinámica.</p>
+<!-- BREAK 1 -->
+<p>Y es precisamente fue con las tablas dinámicas que Steve Jobs se enamoró de las primeras hojas de cálculo, <strong>llegando al punto de casi tener su exclusividad</strong>. No lo consiguió, pero de haberlo hecho quizás ahora Apple sería una compañía muy diferente.</p>
+<!-- BREAK 2 -->
+<h2>De 'Vistas Flexibles' a 'Tablas Dinámicas'</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8l6ihl","autoplay":true,"title":"La IA silenciosa de Apple que llevará iOS 17 - Las Charlas de Applesfera", "tag":"ia"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Esa oportunidad nació en NeXT, la empresa que Jobs fundó tras ser despedido de Apple. Una vez el primer <a href="https://www.applesfera.com/curiosidades/asi-se-presentaba-steve-jobs-nuevos-next-usando-su-propia-voz">NeXT Computer</a> con <a href="https://www.applesfera.com/curiosidades/asi-era-nextstep-sistema-operativo-otra-apple-steve-jobs-que-todos-usamos-saberlo">NeXTStep</a> vio la luz en 1988, el ejecutivo sabía que necesitaba un programa capaz de destacar entre la competencia y que justificase (al menos en parte) la compra de ese ordenador por encima de los de IBM.</p>
+<!-- BREAK 3 -->
+<p>Jobs encontró ese <em>software</em> en Lotus 1-2-3, la solución ofimática de aquella época. Concretamente en una idea que tuvo el desarrollador y empleado de Lotus Pito Salas, quien había dado con la idea de poder <strong>clasificar las operaciones de una hoja de cálculo primitiva en categorías</strong> con muy pocos clicks de ratón.</p>
+<!-- BREAK 4 -->
+<p>Un ejemplo: puedes calcular los totales de ventas de los Mac desde una hoja de cálculo, pero si quieres obtener el total de ventas de cada modelo en concreto, una tabla dinámica permite lograrlo en segundos. En aquella época significaba un avance enorme para aumentar la productividad.</p>
+<!-- BREAK 5 --><div class="article-asset-summary article-asset-normal article-asset-center">
+ <div class="asset-content">
+     <div class="sumario">Jobs convenció a Lotus para tener en exclusiva esas tablas dinámicas, pero NeXT Computer no funcionó</div>
+   </div>
+</div>
+<p>Así que tal y como <a href="https://qz.com/1903322/why-pivot-tables-are-the-spreadsheets-most-powerful-tool">comentaban en Quartz</a> allá por 2020, Jobs convenció a Lotus para que convirtiera esa función (entonces llamada 'vistas flexibles') en algo exclusivo de los NeXT Computer. Se bautizó al programa como Lotus Improv y se lanzó al mercado. Pero como todos sabemos, <strong>los ordenadores de NeXT no triunfaron</strong>.</p>
+<!-- BREAK 6 -->
+<p>Lotus no quería que la idea se perdiese con ese fracaso, así que terminó aplicándola a su Lotus 1-2-3 para los ordenadores de IBM y con el tiempo en Microsoft también la adoptaron para Excel. Las tablas dinámicas se abrieron paso allá donde NeXT no pudo.</p>
+<!-- BREAK 7 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/curiosidades/steve-jobs-quiso-acabar-lisa-este-nuevo-documental-explica-como-vendedor-resucito-antes-que-acabaran-vertedero" >
+     <img alt="Steve&#x20;Jobs&#x20;quiso&#x20;acabar&#x20;con&#x20;el&#x20;Lisa.&#x20;Este&#x20;nuevo&#x20;documental&#x20;explica&#x20;c&#x00F3;mo&#x20;un&#x20;vendedor&#x20;los&#x20;resucit&#x00F3;&#x20;antes&#x20;de&#x20;que&#x20;acabaran&#x20;en&#x20;un&#x20;vertedero&#x20;" src="https://i.blogs.es/328ad3/lisa-apple/375_142.webp" onerror='this.src="https://i.blogs.es/328ad3/lisa-apple/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/curiosidades/steve-jobs-quiso-acabar-lisa-este-nuevo-documental-explica-como-vendedor-resucito-antes-que-acabaran-vertedero" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/curiosidades/steve-jobs-quiso-acabar-lisa-este-nuevo-documental-explica-como-vendedor-resucito-antes-que-acabaran-vertedero" class="desvio-title js-desvio-title">Steve Jobs quiso acabar con el Lisa. Este nuevo documental explica cómo un vendedor los resucitó antes de que acabaran en un vertedero </a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Si la historia hubiese transcurrido de otro modo, quizás ahora Apple sería conocida &nbsp;&nbsp;precisamente por sus hojas de cálculo entre otras cosas. O quizás las ventas de los NeXT habrían sido tan altas que este medio se llamaría NeXTsfera y no Applesfera, quién sabe.</p>
+<!-- BREAK 8 -->
+<p>De todas formas, en Apple tampoco es que tengan motivos para quejarse si tenemos en cuenta su salud financiera. Y siguen teniendo una hoja de cálculo, Numbers, que aunque no llega a la popularidad de Excel sigue siendo una solución potente y que personalmente utilizo a diario.</p>
+<!-- BREAK 9 -->
+<p>Imagen | <a href="https://unsplash.com/es/fotos/oUbzU87d1Gc">Microsoft 365</a></p>
+
+<p>En Applesfera | <a href="https://www.applesfera.com/profesional/steve-jobs-odiaba-reuniones-trabajo-1986-invento-este-sistema-para-acelerar-productividad">Steve Jobs odiaba las reuniones de trabajo y ya en 1986 inventó este sistema para acelerar la productividad</a></p>
+<!-- BREAK 10 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/curiosidades/consiguio-idea-millon-dolares-perdio-steve-jobs-casi-se-convierte-rey-hojas-calculo-gracias-a-este-invento-lotus?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Consiguió la idea del millón de dólares pero la perdió: Steve Jobs casi se convierte en el rey de las hojas de cálculo gracias a este invento de Lotus  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/miguel-lopez?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Miguel López
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Dos nuevos Mac con M2 Max y M2 Ultra se cuelan antes de la WWDC23: Mark Gurman filtra una renovación inminente]]></title>
+    <link>https://www.applesfera.com/rumores/dos-nuevos-mac-m2-max-m2-ultra-se-cuelan-antes-wwdc23-mark-gurman-filtra-renovacion-inminente</link>
+    <guid>https://www.applesfera.com/rumores/dos-nuevos-mac-m2-max-m2-ultra-se-cuelan-antes-wwdc23-mark-gurman-filtra-renovacion-inminente</guid>
+    <pubDate>Thu, 01 Jun 2023 10:07:40 +0200</pubDate>
+         <dc:creator>Fran Bouzas</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/04ba7f/1366_2000/1024_2000.jpeg" alt="Dos nuevos Mac con M2 Max y M2 Ultra se cuelan antes de la WWDC23: Mark Gurman filtra una renovación inminente">
+    </p>
+    <p>Llevamos meses hablando de la <a href="https://www.applesfera.com/nuevo/apple-wwdc-2023-informacion">WWDC23</a> como si fuese un evento que parecía no llegar nunca, pero ya está aquí. El próximo lunes tendrá lugar <strong>una de las keynotes más esperadas de los últimos años</strong>. Vendrá cargada de novedades de software y de hardware, y con todo el hype que se está creando alrededor de ella, no tiene pinta de que vaya a dejar indiferente a nadie.</p>
+<!-- BREAK 1 -->
+<p>A nivel de sistemas operativos, esperamos que los de Cupertino nos presenten sus principales actualizaciones de <a href="https://www.applesfera.com/nuevo/ios-17-caracteristicas-novedades-fecha-lanzamiento"><u>iOS 17</u></a>, <a href="https://www.applesfera.com/preview/-NTo1yF7w1sxWqoJK71f"><u>iPadOS 17</u></a>, <a href="https://www.applesfera.com/nuevo/macos-14-informacion"><u>macOS 14</u></a>, <a href="https://www.applesfera.com/nuevo/apple-watchos-10-informacion"><u>watchOS 10</u></a>, etc. También queremos ver las <a href="https://www.applesfera.com/nuevo/apple-glasses-caracteristicas-fecha-lanzamiento-precio">Reality Pro</a> y su software, <a href="https://www.applesfera.com/nuevo/realityos-caracteristicas-novedades-fecha-lanzamiento">xrOS</a>. Hace tiempo que se rumoreaba el lanzamiento de un <a href="https://www.applesfera.com/nuevo/macbook-air-2023-caracteristicas-precio-fecha-lanzamiento">MacBook Air de 15” con chip M2</a>, pero Gurman ayer filtró que serían “<a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos">varios</a>” los Macs que veríamos, aunque sin especificar. <strong>Ahora sabemos algo más</strong>.</p>
+<!-- BREAK 2 -->
+<h2>Se vienen dos bestias</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8bqdj6","autoplay":true,"title":"Tim Cook estaba hasta NERVIOSO en la WWDC 2022", "tag":"Tim Cook"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Según publica Mark Gurman hoy en <a href="https://www.bloomberg.com/news/articles/2023-05-31/apple-tests-new-high-end-mac-chips-ahead-of-developer-conference">Bloomberg</a>, Apple estaría trabajando en <strong>dos modelos Mac con el chip M2 Max y otro con el M2 Ultra</strong>. El primero que Apple ha estado probando incluye un chip M2 Max con ocho núcleos de alto rendimiento, cuatro núcleos de eficiencia, una GPU de 30 núcleos y 96 GB de RAM.</p>
+<!-- BREAK 3 -->
+<p>El otro modelo trae &nbsp;un chip M2 Ultra con una CPU de 16 núcleos de alto rendimiento y 8 núcleos de eficiencia y una GPU de 60 núcleos. Los dispositivos serían configurables según Gurman con <strong>64GB, 128GB y 192GB de RAM</strong>. Se desconoce el precio de partida, pero siendo las versiones más <em>pro </em>de la gama Apple Silicon, no será barato.</p>
+<!-- BREAK 4 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos" >
+     <img alt="&quot;Una&#x20;de&#x20;las&#x20;keynotes&#x20;m&#x00E1;s&#x20;largas&#x20;de&#x20;la&#x20;historia&quot;&#x3A;&#x20;Gurman&#x20;caldea&#x20;el&#x20;ambiente&#x20;antes&#x20;de&#x20;la&#x20;WWDC&#x20;m&#x00E1;s&#x20;importante&#x20;de&#x20;los&#x20;&#x00FA;ltimos&#x20;a&#x00F1;os&#x20;" src="https://i.blogs.es/3570a4/1366_2000/375_142.webp" onerror='this.src="https://i.blogs.es/3570a4/1366_2000/375_142.png"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos" class="desvio-title js-desvio-title">&quot;Una de las keynotes más largas de la historia&quot;: Gurman caldea el ambiente antes de la WWDC más importante de los últimos años </a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Podríamos estar ante un nuevo <a href="https://www.applesfera.com/nuevo/mac-studio-2023-informacion">Mac Studio</a>, aunque esas cantidades de memoria RAM nos podrían sugerir algo mayor. Quizás el esperado <a href="https://www.applesfera.com/nuevo/nuevos-mac-pro-2021-todo-que-creemos-saber-esta-proxima-generacion">Mac Pro</a>. En cualquier caso, <strong>ya no queda prácticamente nada para que lo descubramos</strong>. La keynote de la WWDC 2023 se podrá seguir en la web de Apple a partir del lunes a las 19:00 hora española, y promete ser impresionante.</p>
+<!-- BREAK 5 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/eventos/asisti-a-anteriores-estoy-convencido-que-esta-wwdc23-sera-mucho-que-unas-apple-reality-pro">"Hablaremos durante años de ello": asistí a las anteriores y estoy convencido que esta WWDC23 será mucho más que iOS 17 o las Apple Reality Pro</a></p>
+<!-- BREAK 6 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/rumores/dos-nuevos-mac-m2-max-m2-ultra-se-cuelan-antes-wwdc23-mark-gurman-filtra-renovacion-inminente?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Dos nuevos Mac con M2 Max y M2 Ultra se cuelan antes de la WWDC23: Mark Gurman filtra una renovación inminente </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/francisco-bouzas?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Fran Bouzas
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA["Lo más complicado jamás hecho por Apple": revelan detalles y retos clave en la producción de las Reality Pro]]></title>
+    <link>https://www.applesfera.com/rumores/complicado-hecho-jamas-apple-the-information-revela-algunos-detalles-retos-produccion-reality-pro</link>
+    <guid>https://www.applesfera.com/rumores/complicado-hecho-jamas-apple-the-information-revela-algunos-detalles-retos-produccion-reality-pro</guid>
+    <pubDate>Wed, 31 May 2023 19:06:38 +0200</pubDate>
+         <dc:creator>Miguel López</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/d9c715/1366_2000/1024_2000.jpeg" alt=""Lo más complicado jamás hecho por Apple": revelan detalles y retos clave en la producción de las Reality Pro">
+    </p>
+    <p>Los <em>renders</em> en tres dimensiones que hemos ido viendo a lo largo de los últimos meses sobre las <a href="https://www.applesfera.com/nuevo/apple-glasses-caracteristicas-fecha-lanzamiento-precio">Reality Pro</a> nos han hecho una imagen mental de lo que deberíamos ver el lunes que viene: un visor semejante a unas gafas de buceo, con una correa que permite sujetarlas a la cabeza.</p>
+<!-- BREAK 1 -->
+<p>Pero ahora que queda tan poco para la <a href="https://www.applesfera.com/nuevo/apple-wwdc-2023-informacion">WWDC23</a>, en The Information <a href="https://www.theinformation.com/articles/apples-learning-curve-how-headsets-design-caused-production-challenges">han logrado</a> tener detalles ya muy concretos sobre el dispositivo. Por lo que parece, lo que más ha costado ha sido producirlo: <strong>la fuente afirma que ha sido "un reto sin precedentes"</strong>.</p>
+<!-- BREAK 2 -->
+<h2>Un panel tan caro que no puede desecharse si sale mal: hay que repararlo siempre</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8khyu6","autoplay":true,"title":"Lo de Epic y lo de las Reality Pro   Las Charlas de Applesfera", "tag":"Apple"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Aparentemente, The Information ha tendo acceso a renderizados que muestran las Reality Pro tal y como son. Describen una sola pieza de cristal curvo envuelta en una carcasa de aluminio pulido que es "ligeramente más gruesa que un iPhone", lo que <strong>obliga a los que lleven gafas a comprar un cristal graduado que se acopla magnéticamente</strong> al visor para no tener problemas.</p>
+<!-- BREAK 3 -->
+<p>Debido a esta forma, las Reality Pro llevan la primera placa base curvada que han hecho jamás en Apple. Eso ha obligado a los fabricantes a ensamblar los componentes del producto desde ángulos inusuales, lo que ha implicado un gasto y un tiempo mayor de producción.</p>
+<!-- BREAK 4 --><div class="article-asset-summary article-asset-normal">
+ <div class="asset-content">
+     <div class="sumario">La producción de las Reality Pro es tan difícil que sólo 2 de cada 10 unidades cumplían los estándares de calidad</div>
+   </div>
+</div>
+<p>Tampoco ayudan <a href="https://www.applesfera.com/rumores/ver-para-creer-se-filtran-caracteristicas-pantalla-reality-pro-dias-antes-wwdc-impresionantes">las pantallas microOLED del dispositivo</a>, que son tan caras que Apple ha preferido reparar los paneles defectuosos en vez de desecharlos y reciclar sus materiales para fabricarlos de nuevo. Se trata de un dispositivo muy, muy difícil de fabricar y de los que <strong>sólo un 20% de los producidos en masa han logrado satisfacer los niveles de calidad de Apple</strong>. De ahí a que todas las filtraciones apunten a precios que superen los 3.000 dólares por el momento.</p>
+<!-- BREAK 5 -->
+<p>Un botón al estilo de la corona digital de los Apple Watch permitirá al usuario pasar gradualmente de la realidad virtual a la aumentada y viceversa, y estará situado a la derecha del ojo derecho. El conector de la batería estará en ese lado, será circular y se conectará a una batería que podremos llevar sujeta al cinturón.</p>
+<!-- BREAK 6 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/eventos/comienza-nueva-era-apple-despeja-dudas-promete-wwdc-2023-historica" >
+     <img alt="&quot;Comienza&#x20;una&#x20;nueva&#x20;era&quot;&#x3A;&#x20;Apple&#x20;despeja&#x20;las&#x20;dudas&#x20;y&#x20;promete&#x20;una&#x20;WWDC&#x20;2023&#x20;hist&#x00F3;rica&#x20;" src="https://i.blogs.es/e2e2d2/apple-wwdc-2023-event-keynote/375_142.webp" onerror='this.src="https://i.blogs.es/e2e2d2/apple-wwdc-2023-event-keynote/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/eventos/comienza-nueva-era-apple-despeja-dudas-promete-wwdc-2023-historica" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/eventos/comienza-nueva-era-apple-despeja-dudas-promete-wwdc-2023-historica" class="desvio-title js-desvio-title">&quot;Comienza una nueva era&quot;: Apple despeja las dudas y promete una WWDC 2023 histórica </a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Con Apple haciendo modificaciones en el diseño del visor incluso en abril, aún queda pendiente que la producción en masa comience. Si todo va bien eso debería ser en julio, así que no esperemos un lanzamiento demasiado pronto de estas Reality Pro. Se espera que este año sólo haya 250.000 unidades producidas debido a todas estas complicaciones. Revolucionar un mercado comporta grandes sacrificios y riesgos, visto lo visto.</p>
+<!-- BREAK 7 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/eventos/fin-apple-que-conocemos-esto-que-me-entusiasma">Es el fin de la Apple que conocemos. Y esto es lo que más me entusiasma</a></p>
+<!-- BREAK 8 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/rumores/complicado-hecho-jamas-apple-the-information-revela-algunos-detalles-retos-produccion-reality-pro?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> "Lo más complicado jamás hecho por Apple": revelan detalles y retos clave en la producción de las Reality Pro </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/miguel-lopez?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Miguel López
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Ver para creer: se filtran las características de las gafas Reality Pro horas antes de la WWDC23 y son impresionantes ]]></title>
+    <link>https://www.applesfera.com/rumores/ver-para-creer-se-filtran-caracteristicas-pantalla-reality-pro-dias-antes-wwdc-impresionantes</link>
+    <guid>https://www.applesfera.com/rumores/ver-para-creer-se-filtran-caracteristicas-pantalla-reality-pro-dias-antes-wwdc-impresionantes</guid>
+    <pubDate>Wed, 31 May 2023 18:06:44 +0200</pubDate>
+         <dc:creator>Fran Bouzas</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/c9fc9c/1366_2000/1024_2000.jpeg" alt="Ver para creer: se filtran las características de las gafas Reality Pro horas antes de la WWDC23 y son impresionantes ">
+    </p>
+    <p>La semana que viene dará comienzo la que será <strong>una de las keynotes más esperadas de los últimos años</strong>: la <a href="https://www.applesfera.com/nuevo/apple-wwdc-2023-informacion">WWDC 2023</a>. Apple presentará sus nuevos sistemas operativos entre los que se encuentran <a href="https://www.applesfera.com/nuevo/ios-17-caracteristicas-novedades-fecha-lanzamiento"><u>iOS 17</u></a>, <a href="https://www.applesfera.com/preview/-NTo1yF7w1sxWqoJK71f"><u>iPadOS 17</u></a>, <a href="https://www.applesfera.com/nuevo/macos-14-informacion"><u>macOS 14</u></a>, <a href="https://www.applesfera.com/nuevo/apple-watchos-10-informacion"><u>watchOS 10</u></a>, etc. También se presentará hardware. En concreto varios Macs y las famosas <a href="https://www.applesfera.com/nuevo/apple-glasses-caracteristicas-fecha-lanzamiento-precio">Reality Pro</a>.</p>
+<!-- BREAK 1 -->
+<p>Será un casco de realidad mixta del que, de momento, sabemos lo justo. Conocemos algunas <a href="https://www.applesfera.com/rumores/llevamos-toda-vida-sonandolo-apple-hara-realidad-muy-pronto-reality-pro-seran-compatibles-estas-apps">aplicaciones</a> que tendrá, la duración de la batería, que esta será externa, y poco más. Sin embargo, gracias a una nueva filtración <strong>ya sabemos las características específicas de su pantalla</strong>, y son impresionantes.</p>
+<!-- BREAK 2 -->
+<h2>5.000 nits de pura potencia</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8khyu6","autoplay":true,"title":"Lo de Epic y lo de las Reality Pro   Las Charlas de Applesfera", "tag":"Apple"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Según Ross Young, el filtrador referencia en todo lo relativo a monitores y demás ha comentado en un <a href="https://twitter.com/DSCCRoss/status/1663595816521699331">tweet</a> que las Reality Pro traerán una pantalla de 1,41” con una densidad de píxeles por pulgada de 4.000 y más de 5.000 nits de brillo. Una auténtica barbaridad, pero que <strong>tiene todo el sentido del mundo</strong>.</p>
+<!-- BREAK 3 -->
+<p>Es fundamental que estos casos de realidad mixta tengan una resolución muy buena. Como nuestros ojos van a estar mirándolos tan de cerca tiene que ser lo más natural posible, de lo contrario podrían producirse mareos y fatiga. La idea es que la pantalla <strong>se parezca lo menos posible a una pantalla</strong>. Que no tenga lag, ni esté pixelada ni nada.</p>
+<!-- BREAK 4 -->
+<p>En relación a los 5.000 nits, es normal también. Puede parecer mucho. De hecho, es mucho, pero así funciona el mundo de la realidad virtual. Antes de investigar sobre ello pensé que nos íbamos a quedar ciegos, pero resulta que la mayoría de <strong>esos nits se pierden por la refracción de las lentes</strong>. Las pantallas tienen que ser así de brillantes porque sino se verían muy poco. No hay de qué alarmarse, no se nos va a dañar la retina, es normal.</p>
+<!-- BREAK 5 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos" >
+     <img alt="&quot;Una&#x20;de&#x20;las&#x20;keynotes&#x20;m&#x00E1;s&#x20;largas&#x20;de&#x20;la&#x20;historia&quot;&#x3A;&#x20;Gurman&#x20;caldea&#x20;el&#x20;ambiente&#x20;antes&#x20;de&#x20;la&#x20;WWDC&#x20;m&#x00E1;s&#x20;importante&#x20;de&#x20;los&#x20;&#x00FA;ltimos&#x20;a&#x00F1;os&#x20;" src="https://i.blogs.es/3570a4/1366_2000/375_142.webp" onerror='this.src="https://i.blogs.es/3570a4/1366_2000/375_142.png"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos" class="desvio-title js-desvio-title">&quot;Una de las keynotes más largas de la historia&quot;: Gurman caldea el ambiente antes de la WWDC más importante de los últimos años </a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Ya no queda nada para que Apple presente en sociedad al que es uno de sus productos más arriesgados hasta la fecha. Puede ser un completo éxito o un completo fracaso, <strong>me atrevería a decir que no hay término medio</strong>. Estará disponible unos meses más tarde y rondará los 3.000 euros según los rumores.</p>
+<!-- BREAK 6 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/eventos/asisti-a-anteriores-estoy-convencido-que-esta-wwdc23-sera-mucho-que-unas-apple-reality-pro">"Hablaremos durante años de ello": asistí a las anteriores y estoy convencido que esta WWDC23 será mucho más que iOS 17 o las Apple Reality Pro</a></p>
+<!-- BREAK 7 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/rumores/ver-para-creer-se-filtran-caracteristicas-pantalla-reality-pro-dias-antes-wwdc-impresionantes?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Ver para creer: se filtran las características de las gafas Reality Pro horas antes de la WWDC23 y son impresionantes  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/francisco-bouzas?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Fran Bouzas
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Steve Jobs saboteó su Apple Lisa: este documental explica cómo los resucitaron antes de acabar en un vertedero]]></title>
+    <link>https://www.applesfera.com/curiosidades/steve-jobs-quiso-acabar-lisa-este-nuevo-documental-explica-como-vendedor-resucito-antes-que-acabaran-vertedero</link>
+    <guid>https://www.applesfera.com/curiosidades/steve-jobs-quiso-acabar-lisa-este-nuevo-documental-explica-como-vendedor-resucito-antes-que-acabaran-vertedero</guid>
+    <pubDate>Wed, 31 May 2023 17:14:41 +0200</pubDate>
+         <dc:creator>Miguel López</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/328ad3/lisa-apple/1024_2000.jpeg" alt="Steve Jobs saboteó su Apple Lisa: este documental explica cómo los resucitaron antes de acabar en un vertedero">
+    </p>
+    <p>Todos sabemos la historia de los primeros ordenadores que Steve Jobs potenció de la mano de Apple, el Lisa y los Macintosh. Pero poco se sabe sobre los detalles de esa transición de un tipo de ordenador a otro, y un nuevo documental elaborado por el equipo de The Verge esclarece algunas cosas.</p>
+<!-- BREAK 1 -->
+<p>Resulta que <strong>hay un montón de unidades de Apple Lisa enterrados en un vertedero desde hace años</strong>. Y este hecho no es producto de una <em>ida de olla</em> de Steve Jobs: hay más implicados en lo que fue un intento de resucitar ese ordenador una vez fue repudiado por el cofundador de Apple.</p>
+<!-- BREAK 2 -->
+<h2>"La basura de un hombre puede ser el tesoro de otro"</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <iframe width="650" height="366" src="//www.youtube.com/embed/rZjbNWgsDt8" allowfullscreen></iframe>
+  </div>
+ </div>
+</div>
+<p>El documental, que <a href="https://www.youtube.com/watch?v=rZjbNWgsDt8">puedes ver gratuitamente en YouTube</a> y que dura media hora, muestra cómo Jobs aparcó su Lisa abruptamente tentando al mercado con algo que todavía iba a ser mejor: el Macintosh. Y estaba tan entusiasmado que quería "enterrar" el Lisa para favorecer el ordenador del que aún hay rastros en los modelos actuales. Curiosamente, acabó enterrado literalmente.</p>
+<!-- BREAK 3 -->
+<p>Todo fue por Bob, un vendedor especializado en Apple que buscó en los Lisa algo de negocio viendo que las cosas no le iban muy bien. Empezó <strong>comprando todos los Apple III que a Apple le sobraban en sus almacenes </strong>después de que la compañía dejase de venderlos. Bob los vendía con un buen descuento por ser modelos antiguos, y Apple le dejaba pagarlos mes a mes. Eran unos 3.500 ordenadores, nada menos.</p>
+<!-- BREAK 4 --><div class="article-asset-summary article-asset-normal article-asset-center">
+ <div class="asset-content">
+     <div class="sumario">Bob se convirtió en el "reciclador" favorito de Apple</div>
+   </div>
+</div>
+<p>La estrategia fue bien, así que Apple contactó con Bob de nuevo para que les ayudara a "librarse" de las 7.000 unidades de los Lisa que tenía acumulando polvo en sus almacenes una vez Steve Jobs dejó de promocionarlos. Aquí ya hubo más problemas: en varias unidades faltaban componentes y había fallos en otros, de modo que la estrategia de venta tuvo que afinarse mucho más que con los Apple III.</p>
+<!-- BREAK 5 -->
+<p>Bob <strong>instaló un sistema operativo alternativo que emulaba el de los Macintosh</strong>, y dotó a los Lisa de más opciones de expansión para que ganaran algo de atractivo en el mercado de ese entonces. Se gastó más de 200.000 dólares en la iniciativa, pero de nuevo la jugada le salió bien. Por su parte, Apple se alegraba de que los usuarios de los Lisa siguieran teniendo soporte, aunque no fuera oficial.</p>
+<!-- BREAK 6 -->
+<h2>"La segunda muerte de Lisa"</h2>
+
+<p>Pero todo cambió en 1989. De repente, Apple quería que Bob devolviese todos los Lisa. Nadie podía enfrentarse al poderoso equipo legal de los de Cupertino, así que al poco llegó un camión que empezó a llevarse todas las unidades de esos Lisa. <strong>¿Hacia dónde? Hacia el vertedero de Logan City, donde fueron enterrados</strong>.</p>
+<!-- BREAK 7 -->
+<p>Los operarios del vertedero estaban tan sorprendidos por estar "destruyendo miles de ordenadores" que incluso llamaron a la prensa. Bob y sus socios acudieron al vertedero para ver qué ocurría, y vieron cómo se vertían todos los ordenadores en un agujero. Incluso había agentes contratados por Apple para evitar que todo fuera lo más discreto posible. <strong>Para Bob, fue el día de la segunda muerte de Lisa</strong>.</p>
+<!-- BREAK 8 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/curiosidades/que-apple-lisa-se-llamo-lisa-historia-hija-no-reconocida-steve-jobs" >
+     <img alt="La&#x20;verdadera&#x20;historia&#x20;tras&#x20;el&#x20;Apple&#x20;Lisa&#x20;y&#x20;los&#x20;oscuros&#x20;secretos&#x20;de&#x20;Steve&#x20;Jobs" src="https://i.blogs.es/df97e5/lisa/375_142.webp" onerror='this.src="https://i.blogs.es/df97e5/lisa/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/curiosidades/que-apple-lisa-se-llamo-lisa-historia-hija-no-reconocida-steve-jobs" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/curiosidades/que-apple-lisa-se-llamo-lisa-historia-hija-no-reconocida-steve-jobs" class="desvio-title js-desvio-title">La verdadera historia tras el Apple Lisa y los oscuros secretos de Steve Jobs</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Apple se ha negado a Verge comentar el asunto, pero la prensa de la época recogía declaraciones en las que la compañía decía que simplemente era "mejor a nivel empresarial". Para Bob, Apple solamente quería deshacerse de un ordenador que finalmente terminó considerando un fracaso, o simplemente había buenas deducciones fiscales si se deshacía de los ordenadores.</p>
+<!-- BREAK 9 -->
+<p>No creo que sepamos nada más sobre el asunto, pero no deja de ser interesante: <strong>alguien confiaba más en los Lisa que el propio Steve Jobs</strong>, y gracias a eso tuvieron una segunda vida. Breve, antes de que Apple decidiera deshacerse de todo a cualquier coste.</p>
+<!-- BREAK 10 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/curiosidades/demasiado-valioso-para-ser-destruido-encuentran-desguace-china-prueban-descubren-intacto-apple-favorito-steve-jobs">"Demasiado valioso para ser destruido": lo encuentran en un desguace de China, lo prueban y descubren intacto el Apple favorito de Steve Jobs</a></p>
+<!-- BREAK 11 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/curiosidades/steve-jobs-quiso-acabar-lisa-este-nuevo-documental-explica-como-vendedor-resucito-antes-que-acabaran-vertedero?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Steve Jobs saboteó su Apple Lisa: este documental explica cómo los resucitaron antes de acabar en un vertedero </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/miguel-lopez?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Miguel López
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA["Una de las keynotes más largas de la historia": Gurman caldea el ambiente antes de la WWDC más importante de los últimos años ]]></title>
+    <link>https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos</link>
+    <guid>https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos</guid>
+    <pubDate>Wed, 31 May 2023 16:04:06 +0200</pubDate>
+         <dc:creator>Fran Bouzas</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/3570a4/1366_2000/1024_2000.png" alt=""Una de las keynotes más largas de la historia": Gurman caldea el ambiente antes de la WWDC más importante de los últimos años ">
+    </p>
+    <p>El próximo lunes a las 19:00 hora española comenzará de forma oficial la <a href="https://www.applesfera.com/nuevo/apple-wwdc-2023-informacion">WWDC 2023</a>. Lo hará con una keynote en la que Apple <strong>presentará sus avances en software</strong> como lo son &nbsp;<a href="https://www.applesfera.com/nuevo/ios-17-caracteristicas-novedades-fecha-lanzamiento"><u>iOS 17</u></a>, <a href="https://www.applesfera.com/preview/-NTo1yF7w1sxWqoJK71f"><u>iPadOS 17</u></a>, <a href="https://www.applesfera.com/nuevo/macos-14-informacion"><u>macOS 14</u></a>, <a href="https://www.applesfera.com/nuevo/apple-watchos-10-informacion"><u>watchOS 10</u></a>, y un largo etcétera. Además, se esperan varios Macs, las Reality Pro y el sistema operativo con el que funcionarán: xrOS.</p>
+<!-- BREAK 1 -->
+<p>Precisamente son estas dos últimas novedades las que hacen de la keynote una de las más importantes de los últimos años. Llevamos mucho tiempo esperando un casco de realidad mixta de Apple que no parecía acabar de llegar, pero que ya está aquí. El hype que se respira en el ambiente está alcanzando niveles nunca antes vistos, y <strong>Mark Gurman acaba de caldear más si cabe el ambiente</strong>.</p>
+<!-- BREAK 2 -->
+<h2>La keynote más larga de la historia</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x89znl7","autoplay":true,"title":"Así vivimos en directo la WWDC19 desde California", "tag":"WWDC"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>En un <a href="https://twitter.com/markgurman/status/1663757505070256128?s=20">tweet</a> reciente ha explicado que espera “varios Macs nuevos, el casco de realidad mixta, y un nuevo sistema operativo”. En principio sólo se rumoreaba para esta keynote el lanzamiento de un nuevo MacBook Air de 15 pulgadas. Hay <strong>otros que todavía no se han anunciado y que podrían hacerlo</strong>, como el <a href="https://www.applesfera.com/nuevo/nuevos-mac-pro-2021-todo-que-creemos-saber-esta-proxima-generacion">Mac Pro con Apple Silicon</a>, o un <a href="https://www.applesfera.com/nuevo/mac-studio-2023-informacion">Mac Studio versión M2</a>. El filtrador no ha querido ser más específico, por lo que de momento nos toca esperar y lanzar nuestras conjeturas.</p>
+<!-- BREAK 3 -->
+<p>Además, ha dicho que espera que “sea de las keynotes más largas de la historia y que fácilmente dure más de dos horas”. Esto tiene sentido. Si Apple pretende anunciar todos sus sistemas operativos, las Reality Pro, varios Macs, etc no le va a dar con dos horas, <strong>salvo que vayan muy rápido</strong>, aunque ese no es su estilo.</p>
+<!-- BREAK 4 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/apple-1/wwdc-2023-esta-aqui-apple-lanza-su-hashtag-personalizado-impresionante" >
+     <img alt="La&#x20;WWDC&#x20;2023&#x20;ya&#x20;est&#x00E1;&#x20;aqu&#x00ED;&#x3A;&#x20;Apple&#x20;lanza&#x20;su&#x20;hashtag&#x20;personalizado&#x20;y&#x20;es&#x20;impresionante" src="https://i.blogs.es/3598b6/-wwdc2023-3/375_142.webp" onerror='this.src="https://i.blogs.es/3598b6/-wwdc2023-3/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/apple-1/wwdc-2023-esta-aqui-apple-lanza-su-hashtag-personalizado-impresionante" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/apple-1/wwdc-2023-esta-aqui-apple-lanza-su-hashtag-personalizado-impresionante" class="desvio-title js-desvio-title">La WWDC 2023 ya está aquí: Apple lanza su hashtag personalizado y es impresionante</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>De todos modos, la planificación oficial de Apple, que han compartido recientemente con los desarrolladores y demás personas invitadas al evento, <strong>habla de una keynote de dos horas</strong>. Claro está que sería raro que pusiese otra cosa, porque sería dar muchas pistas y eso a los de Cupertino no les gusta. Aún así, hay que recalcarlo. El próximo lunes veremos si Gurman tenía razón, qué presenta Apple y cómo es. Hasta entonces lo único que podemos hacer es especular. ¿Vosotros qué pensáis?</p>
+<!-- BREAK 5 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/eventos/asisti-a-anteriores-estoy-convencido-que-esta-wwdc23-sera-mucho-que-unas-apple-reality-pro">"Hablaremos durante años de ello": asistí a las anteriores y estoy convencido que esta WWDC23 será mucho más que iOS 17 o las Apple Reality Pro</a></p>
+<!-- BREAK 6 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/rumores/keynotes-largas-historia-gurman-caldea-ambiente-antes-wwdc-importante-ultimos-anos?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> "Una de las keynotes más largas de la historia": Gurman caldea el ambiente antes de la WWDC más importante de los últimos años  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/francisco-bouzas?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Fran Bouzas
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA["Comienza una nueva era": Apple despeja las dudas y promete una WWDC 2023 histórica ]]></title>
+    <link>https://www.applesfera.com/eventos/comienza-nueva-era-apple-despeja-dudas-promete-wwdc-2023-historica</link>
+    <guid>https://www.applesfera.com/eventos/comienza-nueva-era-apple-despeja-dudas-promete-wwdc-2023-historica</guid>
+    <pubDate>Wed, 31 May 2023 14:00:37 +0200</pubDate>
+         <dc:creator>Miguel López</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/e2e2d2/apple-wwdc-2023-event-keynote/1024_2000.jpeg" alt=""Comienza una nueva era": Apple despeja las dudas y promete una WWDC 2023 histórica ">
+    </p>
+    <p>Normalmente Apple suele ser la que más esconde sus novedades y deja el trabajo de la rumorología a los filtradores para generar sus propias campañas de marketing. Pero se nota que en Cupertino tienen muchas ganas de que llegue el lunes que viene, porque son ellos los que ya están sugiriendo lo rumoreado. Descaradamente.</p>
+<!-- BREAK 1 -->
+<p>Sólo necesitamos echar un vistazo a los últimos mensajes promocionales de la <a href="https://www.applesfera.com/nuevo/apple-wwdc-2023-informacion">WWDC 2023</a>: <strong>"Comienza una nueva era"</strong>. Cuando es la misma Apple la que literalmente te dice que comienza una nueva era... me da que Gurman y Kuo ya pueden descansar tranquilamente hasta que la <em>keynote</em> comience.</p>
+<!-- BREAK 2 --><div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:86.05527638191%;">
+                      <a href="https://twitter.com/Apple/status/1663729202531561478">
+     
+   <img alt="tuit apple wwdc 2023 evento keynote" class="centro_sinmarco" src="https://i.blogs.es/46eb91/tweet-by-apple/450_1000.webp">
+  </a>
+ 
+         </div>
+      </div>
+</div>
+<p>Este es el tuit de Apple que incluye este mensaje, aunque también circulan más anuncios con mensajes extrañamente claros por parte de la compañía como este en el que se anima a "programar nuevos mundos":</p>
+<!-- BREAK 3 --><div class="article-asset-image article-asset-normal">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:95.337620578778%;">
+                  
+  <img alt="Fxzorhfwcaubate" class="" src="https://i.blogs.es/d205ec/fxzorhfwcaubate/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Nada como un visor de realidad mixta para poder entrar de cabeza a esos nuevos mundos que los desarrolladores podrán crear, ¿verdad? Queda meridianamente claro que vamos a ver las <a href="https://www.applesfera.com/nuevo/apple-glasses-caracteristicas-fecha-lanzamiento-precio">Reality Pro</a> en apenas unos días. <strong>Y que Apple quiere iniciar un nuevo ciclo con ellas</strong>. Un mercado más que quiere revolucionar.</p>
+<!-- BREAK 4 -->
+<p>Además, en los últimos tuits también se incluyen animaciones que son demasiado parecidos a lo que ocurre cuando te pones unas gafas: la imagen se distorsiona levemente cuando el cristal se coloca delante de tus ojos.</p>
+<!-- BREAK 5 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/eventos/fin-apple-que-conocemos-esto-que-me-entusiasma" >
+     <img alt="Es&#x20;el&#x20;fin&#x20;de&#x20;la&#x20;Apple&#x20;que&#x20;conocemos.&#x20;Y&#x20;esto&#x20;es&#x20;lo&#x20;que&#x20;m&#x00E1;s&#x20;me&#x20;entusiasma" src="https://i.blogs.es/79aa10/1366_2000/375_142.webp" onerror='this.src="https://i.blogs.es/79aa10/1366_2000/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/eventos/fin-apple-que-conocemos-esto-que-me-entusiasma" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/eventos/fin-apple-que-conocemos-esto-que-me-entusiasma" class="desvio-title js-desvio-title">Es el fin de la Apple que conocemos. Y esto es lo que más me entusiasma</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Recuerda: la <em>keynote</em> <strong>comenzará a las 19:00 horas</strong> (horario español peninsular) del lunes 5 de junio. Muy pronto os detallaremos nuestra cobertura especial del evento para que no os perdáis ninguna novedad. Promete ser uno de los días más importantes de la compañía hasta ahora.</p>
+<!-- BREAK 6 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/apple-1/wwdc-2023-esta-aqui-apple-lanza-su-hashtag-personalizado-impresionante">La WWDC 2023 ya está aquí: Apple lanza su hashtag personalizado y es impresionante</a></p>
+<!-- BREAK 7 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/eventos/comienza-nueva-era-apple-despeja-dudas-promete-wwdc-2023-historica?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> "Comienza una nueva era": Apple despeja las dudas y promete una WWDC 2023 histórica  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/miguel-lopez?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Miguel López
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Amplía 512 GB el almacenamiento de tu MacBook Pro con esta tarjeta de oferta a su precio más bajo ]]></title>
+    <link>https://www.applesfera.com/seleccion/amplia-512-gb-almacenamiento-tu-macbook-pro-esta-tarjeta-oferta-a-su-precio</link>
+    <guid>https://www.applesfera.com/seleccion/amplia-512-gb-almacenamiento-tu-macbook-pro-esta-tarjeta-oferta-a-su-precio</guid>
+    <pubDate>Wed, 31 May 2023 13:31:55 +0200</pubDate>
+         <dc:creator>Jesús Quesada</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/a1366b/tarjeta-transcend/1024_2000.jpeg" alt="Amplía 512 GB el almacenamiento de tu MacBook Pro con esta tarjeta de oferta a su precio más bajo ">
+    </p>
+    <p>Si el almacenamiento de tu MacBook Pro de 14 o 16 pulgadas se ha quedado corto para guardar documentos u otros archivos importantes, la <strong>tarjeta de expansión Transcend JetDrive Lite 330</strong> de 512 GB se instala en segundos en el ordenador y está rebajada en Amazon a su precio mínimo histórico de <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09R4G9Z79&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09R4G9Z79&category=seleccion&asc_campaign=caduco">60,28 euros</a>.</p>
+<!-- BREAK 1 --><!-- PIVOT START -->
+<div class="pivot-ecommerce-container">
+ <div class="pivot-ecommerce">
+  <div class="pivot-ecommerce-figure">
+  <a href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09R4G9Z79%3Ftag%3Dapplesfera-21%26linkCode%3Dogi%26th%3D1%26psc%3D1&amp;category=seleccion&amp;pivot=1&amp;asc_campaign=caduco">
+   <img alt="Transcend JetDrive Lite 330 - Disco Duro para MacBook Pro 2021 (512 GB)" src="https://m.media-amazon.com/images/I/31GAO33EosL._SL500_.jpg">
+  </a>
+  </div>
+  <div class="pivot-ecommerce-summary">
+   <p class="pivot-ecommerce-desc">Transcend JetDrive Lite 330 - Disco Duro para MacBook Pro 2021 (512 GB)</p>
+   <div class="pivot-actions js-pivot-actions">
+    <div class="pivot-actions-row">
+ <a rel="nofollow" target="_blank" data-asin="B09R4G9Z79" data-store="Amazon" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09R4G9Z79%3Ftag%3Dapplesfera-21%26linkCode%3Dogi%26th%3D1%26psc%3D1&amp;category=seleccion&amp;pivot=1&amp;asc_campaign=caduco" title="Precio actualizado hoy" class="pivot-action-primary js-pivot-action">Hoy en Amazon por 60,28&euro;</a>
+</div>
+<div class="pivot-actions-row">
+   <a rel="nofollow" target="_blank" data-asin="" data-store="Macnificos por" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.macnificos.com%2Ftranscend-jetdrive-lite-330-macbook-pro-retina%23sku-TRA0093&amp;category=seleccion&amp;pivot=1" title="Precio de venta al público a fecha de publicación" class="pivot-action-secondary js-pivot-action">PVP en Macnificos por 84,99&euro;</a>
+ </div>
+   </div>
+  </div>
+ </div>
+</div>
+<!-- PIVOT END -->
+<h2>Comprar almacenamiento para MacBook al mejor precio</h2>
+<div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:66%;">
+                  
+  <img alt="Tarjeta Transcend 02" class="centro_sinmarco" src="https://i.blogs.es/4e3e19/tarjeta-transcend-02/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Con un precio de venta al público recomendado de unos 110 euros, se puede adquirir la tarjeta de expansión Transcend JetDrive Lite 330 de 512 GB con un buen descuento en Amazon que la deja a su <strong>precio mínimo histórico</strong> de <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09R4G9Z79&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09R4G9Z79&category=seleccion&asc_campaign=caduco">60,28 euros</a>.</p>
+<!-- BREAK 2 -->
+<p>El Transcend JetDrive Lite 330 es una tarjeta de expansión que se puede usar con varios ordenadores portátiles de Apple, entre ellos los MacBook Pro de 14 y 16 pulgadas más recientes. <strong>Ofrece velocidades de lectura de hasta 95 MB/s y de escritura de hasta 75 MB/s</strong>, muy alejadas de las de los SSD que integran estos Mac, pero que para documentos y archivos no muy pesados debería ser más suficiente.</p>
+<!-- BREAK 3 --><div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x819chq","autoplay":true,"title":"CÓMO LIBERAR ESPACIO EN IPHONE MAC Y ICLOUD  Los Tutoriales de Applesfera", "tag":"Tutorial"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Ha sido diseñada para que se integre de manera impecable como parte del MacBook y no sobresalga nada. La JetDrive permite recuperar archivos eliminados accidentalmente con el software RecoveRX, y es bastante <strong>resistente al agua, polvo, golpes e impactos</strong>.</p>
+<!-- BREAK 4 -->
+<h2>Más ofertas</h2>
+
+<p>Si te haces de <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fpruebaprime&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fpruebaprime&category=seleccion&asc_campaign=caduco">Amazon Prime</a>, dispones de 30 días de prueba gratis (después 49,90 euros al año) para disfrutar de envíos rápidos gratis, accesorio prioritario a ofertas, servicios como <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.primevideo.com%2F&category=seleccion" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.primevideo.com%2F&category=seleccion">Prime Video</a>, <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fgp%2Fdmusic%2Fpromotions%2FAmazonMusicUnlimited&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fgp%2Fdmusic%2Fpromotions%2FAmazonMusicUnlimited&category=seleccion&asc_campaign=caduco">Prime Music</a> y almacenamiento de fotos ilimitado. Además, si eres estudiante, hacerte de <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fjoinstudent&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fjoinstudent&category=seleccion&asc_campaign=caduco">Prime Student</a> cuesta la mitad y dispones de 90 días de prueba. También puedes probar gratis durante 30 días servicios como <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fkindle-dbs%2Fhz%2Fsignup&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fkindle-dbs%2Fhz%2Fsignup&category=seleccion&asc_campaign=caduco">Kindle Unlimited</a> o <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fhz%2Faudible%2Fmlp%2Fmdp%2Fdiscovery&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fhz%2Faudible%2Fmlp%2Fmdp%2Fdiscovery&category=seleccion&asc_campaign=caduco">Audible</a>.</p>
+<!-- BREAK 5 -->
+<blockquote>Puedes estar al día y en cada momento informado de todas las novedades del mundo Apple y las ofertas de Applesfera Selección en nuestros perfiles de <a href="https://twitter.com/applesfera">Twitter</a>, <a href="https://es-es.facebook.com/Applesfera/">Facebook</a> y <a href="https://t.me/applesferaseleccion">Telegram</a></blockquote>
+
+<p><em>Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Applesfera</em>.</p>
+<!-- BREAK 6 -->
+<p><strong>Imágenes</strong> | Transcend</p>
+
+<p>En Applesfera | <a href="https://www.applesfera.com/servicios-apple/tu-almacenamiento-icloud-esta-lleno-cuidado-recibes-este-correo-no-apple-su-intencion-estafarte">“Tu almacenamiento de iCloud está lleno”: cuidado si recibes este correo, no es de Apple y su intención es estafarte</a></p>
+<!-- BREAK 7 -->
+<p>En Applesfera Selección | <a href="https://www.applesfera.com/seleccion/que-no-se-agote-espacio-tu-mac-ipad-ocho-discos-duros-ssd-portatiles-para-vuelta-al-cole">Los nueve mejores discos duros y SSD para la vuelta al cole: no te quedes sin espacio en el Mac y iPad</a></p>
+<!-- BREAK 8 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/seleccion/amplia-512-gb-almacenamiento-tu-macbook-pro-esta-tarjeta-oferta-a-su-precio?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Amplía 512 GB el almacenamiento de tu MacBook Pro con esta tarjeta de oferta a su precio más bajo  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/jesus-quesada?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Jesús Quesada
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[La WWDC 2023 ya está aquí: Apple lanza su hashtag personalizado y es impresionante]]></title>
+    <link>https://www.applesfera.com/apple-1/wwdc-2023-esta-aqui-apple-lanza-su-hashtag-personalizado-impresionante</link>
+    <guid>https://www.applesfera.com/apple-1/wwdc-2023-esta-aqui-apple-lanza-su-hashtag-personalizado-impresionante</guid>
+    <pubDate>Wed, 31 May 2023 13:04:05 +0200</pubDate>
+         <dc:creator>Fran Bouzas</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/3598b6/-wwdc2023-3/1024_2000.jpeg" alt="La WWDC 2023 ya está aquí: Apple lanza su hashtag personalizado y es impresionante">
+    </p>
+    <p>Ya queda menos de una semana para que dé comienzo la WWDC 2023. Esperamos un montón de novedades a nivel de software con <a href="https://www.applesfera.com/nuevo/ios-17-caracteristicas-novedades-fecha-lanzamiento"><u>iOS 17</u></a>, <a href="https://www.applesfera.com/preview/-NTo1yF7w1sxWqoJK71f"><u>iPadOS 17</u></a>, <a href="https://www.applesfera.com/nuevo/macos-14-informacion"><u>macOS 14</u></a>, <a href="https://www.applesfera.com/nuevo/apple-watchos-10-informacion"><u>watchOS 10</u></a>, etc. Sin embargo, también se habla de un nuevo MacBook Air de 15 pulgadas, y como no podría ser de otro modo las <a href="https://www.applesfera.com/nuevo/apple-glasses-caracteristicas-fecha-lanzamiento-precio"><u>Reality Pro</u></a> y su sistema operativo: <a href="https://www.applesfera.com/nuevo/realityos-caracteristicas-novedades-fecha-lanzamiento"><u>xrOS</u></a>.</p>
+<!-- BREAK 1 -->
+<p>Como es costumbre desde que empezaron los eventos online en 2020, Apple ha lanzado en Twitter lo que se conoce como “Hashflag”. Es ese pequeño logo que se ve al lado de determinados hashtags en Twitter. Las empresas pagan por ellos, y son una <strong>muy buena forma de promocionar un evento </strong>o un movimiento de algún tipo.</p>
+<!-- BREAK 2 -->
+<h2>Ya queda menos de una semana</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8l6ihl","autoplay":true,"title":"La IA silenciosa de Apple que llevará iOS 17 - Las Charlas de Applesfera", "tag":"ia"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Si entramos en Twitter y buscamos el hashtag #WWDC23 nos encontraremos con el hashflag de este año. Es de color azul, morado y rojo, y se parece bastante a las invitaciones que enviaron a desarrolladores y prensa hace unos días. Parece recordar a una dimensión paralela, <strong>quizás haciendo referencia a la realidad virtual</strong>.</p>
+<!-- BREAK 3 -->
+<p>La verdad es que estos pequeños gestos hacen que el hype por la presentación aumente. Se prevé que sea bastante larga y que se anuncien bastantes novedades, por lo que es lógico y razonable que Apple trate de promocionarla todo lo que sea posible. La joya de la corona serán las Reality Pro, <strong>uno de los lanzamientos más importantes y arriesgados de la historia de los de Cupertino</strong>, y quieren que salga todo bien.</p>
+<!-- BREAK 4 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/rumores/este-usuario-ha-probado-reality-pro-apple-nos-morimos-envidia-tiene-claro-que-estamos-algo-grande" >
+     <img alt="Este&#x20;usuario&#x20;ya&#x20;ha&#x20;probado&#x20;las&#x20;Reality&#x20;Pro&#x20;de&#x20;Apple&#x20;y&#x20;nos&#x20;morimos&#x20;de&#x20;envidia&#x3A;&#x20;tiene&#x20;claro&#x20;que&#x20;estamos&#x20;ante&#x20;algo&#x20;grande&#x20;" src="https://i.blogs.es/6352b5/captura-de-pantalla-2023-04-20-a-las-17.03.58/375_142.webp" onerror='this.src="https://i.blogs.es/6352b5/captura-de-pantalla-2023-04-20-a-las-17.03.58/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/rumores/este-usuario-ha-probado-reality-pro-apple-nos-morimos-envidia-tiene-claro-que-estamos-algo-grande" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/rumores/este-usuario-ha-probado-reality-pro-apple-nos-morimos-envidia-tiene-claro-que-estamos-algo-grande" class="desvio-title js-desvio-title">Este usuario ya ha probado las Reality Pro de Apple y nos morimos de envidia: tiene claro que estamos ante algo grande </a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>En cualquier caso, ya no queda nada para la keynote, que<strong> se podrá ver el próximo lunes a partir de las 19 horas en España</strong>. Desde Applesfera cubriremos todos y cada uno de los detalles sobre ella, los nuevos sistemas operativos, productos y demás.</p>
+<!-- BREAK 5 -->
+<p>En Applesfera | <a href="https://www.applesfera.com/eventos/asisti-a-anteriores-estoy-convencido-que-esta-wwdc23-sera-mucho-que-unas-apple-reality-pro">"Hablaremos durante años de ello": asistí a las anteriores y estoy convencido que esta WWDC23 será mucho más que iOS 17 o las Apple Reality Pro</a></p>
+<!-- BREAK 6 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/apple-1/wwdc-2023-esta-aqui-apple-lanza-su-hashtag-personalizado-impresionante?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> La WWDC 2023 ya está aquí: Apple lanza su hashtag personalizado y es impresionante </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/francisco-bouzas?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Fran Bouzas
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Microsoft descubre un nuevo malware letal para macOS: se instala sin que el usuario se dé cuenta]]></title>
+    <link>https://www.applesfera.com/os-x/microsoft-descubre-como-instalar-malware-mac-que-usuario-se-cuenta-asi-puedes-evitar-que-ocurra</link>
+    <guid>https://www.applesfera.com/os-x/microsoft-descubre-como-instalar-malware-mac-que-usuario-se-cuenta-asi-puedes-evitar-que-ocurra</guid>
+    <pubDate>Wed, 31 May 2023 12:13:11 +0200</pubDate>
+         <dc:creator>Fran Bouzas</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/9e21d8/diseno-sin-titulo/1024_2000.jpeg" alt="Microsoft descubre un nuevo malware letal para macOS: se instala sin que el usuario se dé cuenta">
+    </p>
+    <p>Los dispositivos de Apple son de los más seguros del mundo, nadie duda de ello. Sin embargo, <strong>es inevitable que de cuando en vez haya fallos</strong> y vulnerabilidades de seguridad que tengan que ser solventados. Los de Cupertino tienen un equipo cuya única labor consiste en encontrar estos errores para que sus compañeros de macOS puedan solventarlos.</p>
+<!-- BREAK 1 -->
+<p>De todos modos, esa no es la única forma que tiene la empresa de detectar amenazas. Cuentan con un <a href="https://www.applesfera.com/seguridad/nuevo-programa-recompensas-apple-pagara-1-millon-euros-errores-sus-sistemas">programa de recompensas</a> bastante cuantioso para aquellos que las localicen y las reporten. También se sirven de la información que otras empresas les proporcionan para ello. En esta ocasión ha sido <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fblog%2F2023%2F05%2F30%2Fnew-macos-vulnerability-migraine-could-bypass-system-integrity-protection%2F&category=os-x" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fblog%2F2023%2F05%2F30%2Fnew-macos-vulnerability-migraine-could-bypass-system-integrity-protection%2F&category=os-x">Microsoft</a> la que ha comunicado el problema de seguridad, que <strong>ya ha sido solucionado</strong>.</p>
+<!-- BREAK 2 -->
+<h2>Podían acceder a tu Mac sin que te dieses cuenta</h2>
+<div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x8cmax8","autoplay":true,"title":"HEREJÍA: probamos Windows 11 en el MacBook Air M2", "tag":"webedia-prod"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Desde hace unos años, macOS cuenta con algo llamado “<strong>Sistema de Protección de Integridad</strong>”. Es un sistema de seguridad que previene que las aplicaciones puedan acceder a carpetas importantes del sistema. Es como una especie de barrera para evitar que quien no tiene por qué acceder a ellas no lo haga.</p>
+<!-- BREAK 3 -->
+<p>El problema es que hace poco Microsoft consiguió gracias a un exploit llamado “Migraine” saltarse este “Sistema de Protección de Identidad” para acceder y modificar estas carpetas importantes. Pudiendo hacer esto, es muy fácil instalar y <strong>ejecutar malware en nuestro Mac sin que nos demos cuenta</strong>, algo bastante grave. No hay necesidad de acceder al ordenador físicamente, por lo que nos lo podrían hacer desde cualquier lugar del mundo, lo que es peor.</p>
+<!-- BREAK 4 -->
+<p>Los ingenieros de Microsoft intentaron llevar a la práctica esta teoría que habían desarrollado, y funcionó. Hicieron una copia de seguridad en Time Machine que contenía un virus, y ejecutando este exploit consiguieron instalar este malware en el Mac <strong>sin que saltase ningún tipo de alarma</strong>.</p>
+<!-- BREAK 5 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/os-x/todo-lo-que-puedes-hacer-en-macos-para-que-sea-mas-seguro" >
+     <img alt="Todo&#x20;lo&#x20;que&#x20;puedes&#x20;hacer&#x20;en&#x20;macOS&#x20;para&#x20;que&#x20;sea&#x20;m&#x00E1;s&#x20;seguro" src="https://i.blogs.es/c8e607/1366_2000-3/375_142.webp" onerror='this.src="https://i.blogs.es/c8e607/1366_2000-3/375_142.jpg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/os-x/todo-lo-que-puedes-hacer-en-macos-para-que-sea-mas-seguro" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/os-x/todo-lo-que-puedes-hacer-en-macos-para-que-sea-mas-seguro" class="desvio-title js-desvio-title">Todo lo que puedes hacer en macOS para que sea más seguro</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Por fortuna para todos, Microsoft comunicó hace unas semanas el problema a Apple, que ya ha tomado cartas en el asunto y lo ha solucionado con macOS 13.4. Si ya has actualizado a la última versión no tienes de qué preocuparte. Eso sí, si no lo has hecho <strong>te recomendamos que lo hagas cuanto antes</strong>. Es improbable que seas el foco de un ataque de este tipo, pero siempre es mejor prevenir que curar, por lo que trata de instalar esta versión lo más pronto posible.</p>
+<!-- BREAK 6 -->
+<p>Applesfera | <a href="https://www.applesfera.com/nuevo/macos-14-informacion">macOS 14: novedades, fecha de lanzamiento, ordenadores que se actualizarán y todo sobre este nuevo sistema operativo</a></p>
+<!-- BREAK 7 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/os-x/microsoft-descubre-como-instalar-malware-mac-que-usuario-se-cuenta-asi-puedes-evitar-que-ocurra?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Microsoft descubre un nuevo malware letal para macOS: se instala sin que el usuario se dé cuenta </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/francisco-bouzas?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Fran Bouzas
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[El localizador Bluetooth Apple AirTag vuelve a estar rebajado con una de las mejores ofertas hasta la fecha ]]></title>
+    <link>https://www.applesfera.com/seleccion/localizador-bluetooth-apple-airtag-vuelve-a-estar-rebajado-mejores-ofertas-fecha</link>
+    <guid>https://www.applesfera.com/seleccion/localizador-bluetooth-apple-airtag-vuelve-a-estar-rebajado-mejores-ofertas-fecha</guid>
+    <pubDate>Wed, 31 May 2023 11:30:38 +0200</pubDate>
+         <dc:creator>Alberto García</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/4d928e/airtag/1024_2000.jpeg" alt="El localizador Bluetooth Apple AirTag vuelve a estar rebajado con una de las mejores ofertas hasta la fecha ">
+    </p>
+    <p>Los viajes, la presión por no dejarte nada en el tren y el clásico de: ¿dónde está mi cartera? Hoy en día podemos curarnos en salud para saber dónde tenemos nuestras cosas, y Apple, que siempre intenta innovar, tiene en su catálogo uno de los mejores localizadores Bluetooth: el <strong>AirTag</strong>. Si llevamos un tiempo echándole un ojo, pero estábamos esperando a que bajase de precio, ahora lo tenemos muy rebajado en Amazon por <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09364K56M&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09364K56M&category=seleccion&asc_campaign=caduco">27,26 euros</a> en lo que es casi su precio mínimo histórico.</p>
+<!-- BREAK 1 --><!-- PIVOT START -->
+<div class="pivot-ecommerce-container">
+ <div class="pivot-ecommerce">
+  <div class="pivot-ecommerce-figure">
+  <a href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09364K56M%3Ftag%3Dapplesfera-21%26linkCode%3Dogi%26th%3D1%26psc%3D1&amp;category=seleccion&amp;pivot=1&amp;asc_campaign=caduco">
+   <img alt="Apple AirTag" src="https://m.media-amazon.com/images/I/318ulj8mOHS._SL500_.jpg">
+  </a>
+  </div>
+  <div class="pivot-ecommerce-summary">
+   <p class="pivot-ecommerce-desc">Apple AirTag</p>
+   <div class="pivot-actions js-pivot-actions">
+    <div class="pivot-actions-row">
+ <a rel="nofollow" target="_blank" data-asin="B09364K56M" data-store="Amazon" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09364K56M%3Ftag%3Dapplesfera-21%26linkCode%3Dogi%26th%3D1%26psc%3D1&amp;category=seleccion&amp;pivot=1&amp;asc_campaign=caduco" title="Precio actualizado hoy" class="pivot-action-primary js-pivot-action">Hoy en Amazon por 27,26&euro;</a>
+</div>
+<div class="pivot-actions-row">
+   <a rel="nofollow" target="_blank" data-asin="" data-store="Macnificos" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.macnificos.com%2Fapple-airtag%23sku-APP5714&amp;category=seleccion&amp;pivot=1" title="Precio de venta al público a fecha de publicación" class="pivot-action-secondary js-pivot-action">PVP en Macnificos 35,00&euro;</a>
+   <a rel="nofollow" target="_blank" data-asin="" data-store="PcComponentes" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.pccomponentes.com%2Fapple-airtag&amp;category=seleccion&amp;pivot=1" title="Precio de venta al público a fecha de publicación" class="pivot-action-secondary js-pivot-action">PVP en PcComponentes 35,01&euro;</a>
+   <a rel="nofollow" target="_blank" data-asin="" data-store="MediaMarkt" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.mediamarkt.es%2Fes%2Fproduct%2F_apple-airtag-localizador-paquete-de-1-unidad-bluetooth-chip-u1-nfc-privaciad-de-serie-plata-1506416.html&amp;category=seleccion&amp;pivot=1" title="Precio de venta al público a fecha de publicación" class="pivot-action-secondary js-pivot-action">PVP en MediaMarkt 35,99&euro;</a>
+   <a rel="nofollow" target="_blank" data-asin="" data-store="El Corte Inglés" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.elcorteingles.es%2Felectronica%2FA39591341-airtag-apple%2F&amp;category=seleccion&amp;pivot=1" title="Precio de venta al público a fecha de publicación" class="pivot-action-secondary js-pivot-action">PVP en El Corte Inglés 38,99&euro;</a>
+ </div>
+   </div>
+  </div>
+ </div>
+</div>
+<!-- PIVOT END -->
+<h2>Comprar localizador Bluetooth Apple AirTag al mejor precio</h2>
+<div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:61.538461538462%;">
+                  
+  <img alt="Apple Airtag" class="centro_sinmarco" src="https://i.blogs.es/b9aa0b/apple-airtag/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Con un precio de venta al público recomendado de 39 euros en la Apple Store y en los proveedores autorizados, el AirTag de Apple vuelve de oferta en Amazon con un <strong>descuento del 30% (11,74 euros al cambio)</strong>, quedándose por <a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09364K56M&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB09364K56M&category=seleccion&asc_campaign=caduco">27,26 euros</a>. Se trata de una de las mejores ofertas hasta la fecha, rozando su precio mínimo a diferencia de un par de euros.</p>
+<!-- BREAK 2 -->
+<p>El <a href="https://www.applesfera.com/nuevo/airtag-que-como-funciona-tecnologia-apple-para-encontrar-cualquier-cosa">Apple AirTag</a> es un accesorio muy compacto y bastante útil cuando vamos de viaje. Se trata de un <strong>localizador Bluetooth</strong> que podemos emparejar a nuestro dispositivo de Apple, como es el caso del <a href="https://www.applesfera.com/seleccion/que-iphone-comprar-2020-guia-para-elegir-smartphone-apple-adecuado-para-ti">iPhone</a>, y nos muestra su ubicación en un área bastante extenso, alcanzando varios kilómetros. En su interior nos encontramos con una pila, cuya autonomía es de aproximadamente un año.</p>
+<!-- BREAK 3 --><div class="article-asset-video article-asset-normal">
+ <div class="asset-content">
+  <div class="base-asset-video">
+   <div class="js-dailymotion">
+    <script type="application/json">
+           {"videoId":"x80qzml","autoplay":true,"title":"Así son los nuevos Apple AirTag", "tag":"Apple"}
+         </script>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Si tenemos uno de los últimos modelos de iPhone podemos utilizar la función de "<strong>búsqueda de precisión</strong>", algo bastante útil que nos permite aprovechar mejor las <a href="https://www.applesfera.com/accesorios/airtag-analisis-caracteristicas-uso-precio-especificaciones">características del AirTag</a> para obtener una mayor precisión en la localización. Cabe decir que esto es interesante para cualquier viaje, y tan sólo tenemos que colocar el AirTag en una mochila, en la cartera o en cualquier sitio que queremos localizar.</p>
+<!-- BREAK 4 -->
+<h2><strong>Más ofertas</strong></h2>
+
+<p>Si te haces de<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fpruebaprime&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fpruebaprime&category=seleccion&asc_campaign=caduco"><u> Amazon Prime</u></a>, dispones de 30 días de prueba gratis (después 49,90 euros al año) para disfrutar de envíos rápidos gratis, accesorio prioritario a ofertas, servicios como<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.primevideo.com%2F&category=seleccion" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.primevideo.com%2F&category=seleccion"><u> Prime Video</u></a>,<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fgp%2Fdmusic%2Fpromotions%2FAmazonMusicUnlimited&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fgp%2Fdmusic%2Fpromotions%2FAmazonMusicUnlimited&category=seleccion&asc_campaign=caduco"><u> Prime Music</u></a> y almacenamiento de fotos ilimitado. Además, si eres estudiante, hacerte de<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fjoinstudent&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=http%3A%2F%2Fwww.amazon.es%2Fjoinstudent&category=seleccion&asc_campaign=caduco"><u> Prime Student</u></a> cuesta la mitad y dispones de 90 días de prueba. También puedes probar gratis durante 30 días servicios como<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fkindle-dbs%2Fhz%2Fsignup&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fkindle-dbs%2Fhz%2Fsignup&category=seleccion&asc_campaign=caduco"><u> Kindle Unlimited</u></a> o<a class="js-ecommerce" href="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fhz%2Faudible%2Fmlp%2Fmdp%2Fdiscovery&category=seleccion&asc_campaign=caduco" data-vars-affiliate-url="https://www.applesfera.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fhz%2Faudible%2Fmlp%2Fmdp%2Fdiscovery&category=seleccion&asc_campaign=caduco"><u> Audible</u></a>.</p>
+<!-- BREAK 5 -->
+<p><em>Puedes estar al día y en cada momento informado de todas las novedades del mundo Apple y las ofertas de Applesfera Selección en nuestros perfiles de</em><a href="https://twitter.com/applesfera"><em> </em><u><em>Twitter</em></u></a><em> y</em><a href="https://es-es.facebook.com/Applesfera/"><em> </em><u><em>Facebook</em></u></a> <em>y en nuestro canal de</em><a href="https://t.me/applesferaseleccion"><em> </em><u><em>Telegram</em></u></a><em>.</em></p>
+<!-- BREAK 6 -->
+<p><em>Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Applesfera</em>.</p>
+<!-- BREAK 7 -->
+<p><strong>Imágenes</strong> | Apple</p>
+
+<p>En Applesfera | <a href="https://www.applesfera.com/tutoriales/app-chatgpt-llega-a-espana-asi-puedes-instalarla-tu-iphone-hoy">La app de ChatGPT llega a España: así puedes instalarla en tu iPhone hoy mismo</a></p>
+<!-- BREAK 8 -->
+<p>En Applesfera Selección | <a href="https://www.applesfera.com/seleccion/este-echo-dot-compatible-apple-music-mejores-alternativas-al-homepod-mini-ahora-esta-muy-rebajado">Este Echo Dot compatible con Apple Music es una de las mejores alternativas al HomePod mini y ahora está muy rebajado</a></p>
+<!-- BREAK 9 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/seleccion/localizador-bluetooth-apple-airtag-vuelve-a-estar-rebajado-mejores-ofertas-fecha?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> El localizador Bluetooth Apple AirTag vuelve a estar rebajado con una de las mejores ofertas hasta la fecha  </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/alberto-garcia?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Alberto García
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+            
+                <item>
+    <title><![CDATA[Adelántate a las elecciones generales de 2023: así puedes solicitar el voto por correo desde tu Mac]]></title>
+    <link>https://www.applesfera.com/tutoriales/adelantate-a-elecciones-generales-2023-asi-puedes-solicitar-voto-correo-tu-mac</link>
+    <guid>https://www.applesfera.com/tutoriales/adelantate-a-elecciones-generales-2023-asi-puedes-solicitar-voto-correo-tu-mac</guid>
+    <pubDate>Wed, 31 May 2023 11:00:37 +0200</pubDate>
+         <dc:creator>Miguel López</dc:creator>
+         
+    <description>
+     <![CDATA[
+                                             <p>
+      <img src="https://i.blogs.es/f29ab6/voto-por-correo-mac/1024_2000.jpeg" alt="Adelántate a las elecciones generales de 2023: así puedes solicitar el voto por correo desde tu Mac">
+    </p>
+    <p>Hace pocos días España vivió su <em>Plot Twist</em> particular. Tras el giro de dirección de voto generalizado en las elecciones municipales y autonómicas, el Presidente del Gobierno Pedro Sánchez <a href="https://www.xataka.com/magnet/pedro-sanchez-tenia-grandes-esperanzas-puestas-presidencia-ue-adelanto-electoral-les-pone-fin">ha adelantado la fecha de las elecciones generales</a> unos meses al 23 de julio.</p>
+<!-- BREAK 1 -->
+<p>Eso puede romper los planes vacacionales que más de uno tendría ya reservados, pero no hay que preocuparse: <strong>puedes pedir el voto por correo desde ahora mismo</strong>. Vamos a ver cómo hacerlo y qué es lo que haría que aún así tuvieras que cancelar esos planes veraniegos.</p>
+<!-- BREAK 2 -->
+<h2>Firefox, Autofirma y listo: pedir el voto por correo en tu Mac es cosa de minutos</h2>
+
+<p>Empecemos con los requisitos que necesitas para solicitar el voto por correo. Esta vez no podemos decirte que te basta con el iPhone para hacer esa solicitud, porque <strong>se necesita específicamente la aplicación Autofirma</strong> (desarrollada y distribuida por el propio gobierno de España). Esta aplicación puede instalarse en Mac, pero no en iPhone a pesar que haya aplicaciones alternativas.</p>
+<!-- BREAK 3 -->
+<p>Puedes descargar Autofirma para Mac desde <a href="https://estaticos.redsara.es/comunes/autofirma/1/7/1/AutoFirma_Mac.zip">este enlace de descarga directo</a>: es un fichero comprimido que guarda un instalador. Ten en cuenta que arrancar ese instalador hará que macOS te advierta que no puede garantizar que esté libre de código malicioso, de modo que habrá que acceder a la sección 'Seguridad y privacidad' de Ajustes del sistema para poder desbloquear su ejecución.</p>
+<!-- BREAK 4 -->
+<p>Durante la instalación de Autofirma en tu Mac verás que el asistente <strong>te propone instalar sus componentes en Firefox</strong>, de modo que recomendamos usar ese navegador para poder hacer todo el proceso sin obstáculos. Por supuesto, necesitarás tener instalado un <a href="https://www.applesfera.com/tutoriales/asi-podemos-instalar-utilizar-certificado-digital-agencia-tributaria-nuestro-iphone-ipad-mac-mediante-safari">certificado digital</a> en el Mac.</p>
+<!-- BREAK 5 -->
+<p>Si llegas a este punto con el certificado y la aplicación Autofirma instalados en el Mac, ya puedes acudir a <a href="https://www.correos.es/es/es/particulares/para-el-ciudadano/voto-por-correo">la web oficial de correos</a> desde donde se ha abierto la solicitud del voto por correo. Hay que hacer click en el botón 'Continuar' que tienes abajo a la derecha:</p>
+<!-- BREAK 6 --><div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:26.637554585153%;">
+                  
+  <img alt="pedir voto por correo mac" class="centro_sinmarco" src="https://i.blogs.es/b5c8d8/captura-de-pantalla-2023-05-31-a-las-10.14.18/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Acto seguido, Firefox te pedirá que selecciones el certificado electrónico que tengas instalado y pasaremos a una ficha en la que podrás verificar tus datos personales y pulsar de nuevo en 'Continuar':</p>
+<!-- BREAK 7 --><div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:38.557692307692%;">
+                  
+  <img alt="pedir voto correo mac" class="centro_sinmarco" src="https://i.blogs.es/b793dc/captura-de-pantalla-2023-05-31-a-las-10.26.59/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>Finalmente podrás cumplimentar todos los datos necesarios (como la dirección a la que quieras que se envíe la documentación del voto):</p>
+<!-- BREAK 8 --><div class="article-asset-image article-asset-normal article-asset-center">
+ <div class="asset-content">
+         <div class="base-wrapper-image" style="padding-top:65.300146412884%;">
+                  
+  <img alt="pedir voto correo mac" class="centro_sinmarco" src="https://i.blogs.es/d2ef3a/1366_2000/450_1000.webp">
+ 
+         </div>
+      </div>
+</div>
+<p>El paso final invocará el programa Autofirma que he mencionado previamente para firmar y verificar todo el proceso. Llegados a este punto ya solamente te quedará <strong>esperar unos días para recibir las papeletas a tu casa</strong>, meter el voto que quieras en el sobre y personarte en una oficina de correos para que recojan ese voto. Ten en cuenta que muy probablemente deberás presentar tu DNI en ese punto para garantizar que no haya fraude.</p>
+<!-- BREAK 9 --><div class="article-asset article-asset-normal article-asset-center">
+ <div class="desvio-container">
+  <div class="desvio">
+   <div class="desvio-figure js-desvio-figure">
+    <a href="https://www.applesfera.com/apple-1/espana-destaca-su-creatividad-asi-fue-dia-que-pedro-sanchez-conocio-a-tim-cook-que-ha-cambiado-entonces" >
+     <img alt="As&#x00ED;&#x20;fue&#x20;el&#x20;d&#x00ED;a&#x20;que&#x20;Pedro&#x20;S&#x00E1;nchez&#x20;conoci&#x00F3;&#x20;a&#x20;Tim&#x20;Cook&#x3A;&#x20;todo&#x20;ha&#x20;cambiado&#x20;desde&#x20;entonces" src="https://i.blogs.es/1bd7b8/sanchez/375_142.webp" onerror='this.src="https://i.blogs.es/1bd7b8/sanchez/375_142.jpeg"'>
+    </a>
+   </div>
+   <div class="desvio-summary">
+    <div class="desvio-taxonomy js-desvio-taxonomy">
+     <a href="https://www.applesfera.com/apple-1/espana-destaca-su-creatividad-asi-fue-dia-que-pedro-sanchez-conocio-a-tim-cook-que-ha-cambiado-entonces" class="desvio-taxonomy-anchor">En Applesfera</a>
+    </div>
+    <a href="https://www.applesfera.com/apple-1/espana-destaca-su-creatividad-asi-fue-dia-que-pedro-sanchez-conocio-a-tim-cook-que-ha-cambiado-entonces" class="desvio-title js-desvio-title">Así fue el día que Pedro Sánchez conoció a Tim Cook: todo ha cambiado desde entonces</a>
+   </div>
+  </div>
+ </div>
+</div>
+<p>Hay que tener en cuenta dos puntos muy importantes:</p>
+
+<ul>
+  <li>En cuando confirmes tu solicitud de voto por correo, ésta es irreversible. Deberás votar de esta forma y ya no podrás hacerlo presencialmente para las elecciones del 23 de julio.</li>
+  <li>Votar por correo <strong>no te exime de la posibilidad de que te toque estar en una mesa electoral</strong>. Si votas por correo para poder irte de vacaciones, cuidado porque sigues teniendo probabilidad de tener que acudir a esas mesas a cumplir con lo que al fin y al cabo es uno de los deberes que tienes como ciudadano de España.</li>
+</ul>
+
+<p>Los partidos tienen ahora alrededor de una semana para poder confirmar cómo se van a presentar a las elecciones (siglas, coaliciones, etc), y será a partir de entonces que las papeletas se comiencen a enviar a todos los que solicitéis ese voto por correo. Sea como sea, ejercer tu derecho a voto mediante correo postal no es difícil y <strong>tienes tiempo de hacerlo hasta el 13 de julio</strong>.</p>
+<!-- BREAK 10 -->
+<p>Imagen | <a href="https://unsplash.com/es/fotos/5CoOYSxILSw">Arnaud Jaegers</a></p>
+
+<p>En Applesfera | <a href="https://www.applesfera.com/nuevo/cl-ve-pin-para-iphone-que-que-puedes-hacer-su-app">Cl@ve PIN para iPhone: qué es y qué puedes hacer con su app</a></p>
+<!-- BREAK 11 --><script>
+ (function() {
+  window._JS_MODULES = window._JS_MODULES || {};
+  var headElement = document.getElementsByTagName('head')[0];
+  if (_JS_MODULES.instagram) {
+   var instagramScript = document.createElement('script');
+   instagramScript.src = 'https://platform.instagram.com/en_US/embeds.js';
+   instagramScript.async = true;
+   instagramScript.defer = true;
+   headElement.appendChild(instagramScript);
+  }
+ })();
+</script>
+
+
+                <p> - <br/> La noticia
+      <a href="https://www.applesfera.com/tutoriales/adelantate-a-elecciones-generales-2023-asi-puedes-solicitar-voto-correo-tu-mac?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <em> Adelántate a las elecciones generales de 2023: así puedes solicitar el voto por correo desde tu Mac </em>
+      </a>
+      fue publicada originalmente en
+      <a href="https://www.applesfera.com?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       <strong> Applesfera </strong>
+      </a>
+            por <a
+       href="https://www.applesfera.com/autor/miguel-lopez?utm_source=feedburner&utm_medium=feed&utm_campaign=01_Jun_2023">
+       Miguel López
+      </a>
+      . </p>
+               ]]>
+    </description>
+   </item>
+   </channel>
+</rss>

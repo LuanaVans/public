@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 960px;
+    min-width:320px;
+    margin: 20px auto;
+    font-family: sans-serif;
+    font-size:16px;
+    padding:20px;
+}
+
+a{ text-decoration:none;}
+
+img{max-width:100%}
+
+
+ul#galeria, ul.tags{list-style:none;padding-left:0;display:flex;flex-wrap:wrap;gap:6px;align-items: flex-end;}
+ul#galeria{ margin:20px auto;}
+ul#galeria > li{overflow:hidden;display:flex;flex-direction: column;justify-content: space-between;}
+ul#galeria > li:hover{ box-shadow:2px 3px 18px rgba(0,0,0,.3);}
+
+ul#galeria > li h3{ font-size:1em; margin-bottom:0.1em;}
+ul#galeria > li p{ font-size:0.8em;}
+ul#galeria > li a{ color:grey;}
+ul#galeria > li:hover a{ color:black;}
+ul#galeria > li img {max-width: 180px;aspect-ratio: 1/1;border-radius: 10px;box-shadow: 0 3px 5px #AAA;margin-bottom: 12px;}
+
+ul#galeria:hover > li img{ opacity:0.55; filter:grayscale(100%) brightness(250%) blur(2px);}
+ul#galeria > li:hover img{ transform:scale(1.05); opacity:1; filter:grayscale(0%) brightness(100%);}
+
+ul#galeria li{border:#f8f8f8 1px solid;padding: 6px;/* border-radius:20px; */box-shadow:2px 3px 18px rgba(0,0,0,.1);}
+
+
+
+
+ul#galeria .tags{font-size:8px;gap:2px;margin:10px 0 0 0; justify-content:flex-end;}
+ul#galeria .tags li{border-radius: 999px;padding: 2px 6px;}
+
+ul#galeria li:hover .tags { gap:6px;}
+
+ul#galeria li:hover .tags li{ border:1 grey solid; }
+
+.html{  }
+.css{}
+.js{}
+.figma{}
+
+.html::before{ content:'HTML'}
+.css::before{ content:'CSS'}
+.js::before{ content:'JS'}
+.figma::before{ content:'Figma'}
+
+
+
+/* grid */
+ul#galeria.grid li { border-radius:20px !important; max-width:210px;}
+ul#galeria.grid li img{display: block;max-width: 196px;}
+ul#galeria.grid:hover img{ border-radius:18px;}
+
+/* list */
+ul#galeria.list > li{ width:100%; flex-direction: row; border-radius:6px;}
+ul#galeria.list > li a{display:flex;}
+ul#galeria.list img{ height: 36px;margin: 0 16px 0 0;border-radius: 4px;}
+ul#galeria.list >li:hover img{ margin-right:30px; transform:scale(1.18); }
+
+
+footer{ font-size:0.6em; text-align:center; margin-top:30px}
+
+button{ padding:4px 10px; border:1px grey solid; border-radius:20px; margin:4px 0px;}
+button:hover{ background:grey; color:white;}
+
+
+
+/* transform */
+
+ul li, ul li img, .tags, a, button{ transition: .3s }
+
+
+
+@media (max-width:530px){
+    ul#galeria.list .tags{ flex-direction:column;}
+    ul#galeria.list a{ display:block;}
+    
+}

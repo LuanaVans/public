@@ -1,0 +1,40 @@
+*{ box-sizing: border-box;}
+
+body{
+    max-width: 560px;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: sans-serif;
+    background: coral;
+}
+
+main{
+    padding: 20px;
+    background: white;
+    border-radius: 20px;;
+}
+
+a,
+.btn,
+button,
+input{
+    border-radius: 20px;
+    padding: 8px;
+    border:solid coral 2px;
+    text-decoration: none;
+    display: block !important;
+    margin-bottom: 8px;
+    color:coral;
+    text-align: center;
+    width: 100%;
+    background: white;
+}
+
+a:hover,
+input[type="submit"],
+a.active, .active{
+    background: coral;
+    color:white
+}
+
+img{ max-width: 100%;;}

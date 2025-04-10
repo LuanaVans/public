@@ -1,0 +1,28 @@
+
+
+#https://desarrolloweb.com/articulos/mas-ejemplos-reglas-htaccess.html
+
+
+# Activa Rewirte Engine
+RewriteEngine On
+
+# Redireccion a error 404
+#ErrorDocument 404       http://desappweb.local/des_app_web/htaccess/error404
+
+
+
+# Reescribir la URL solicitada por el usuario
+
+RewriteRule ^inicio/?$          index.php
+RewriteRule ^login/?$           acceso-usuarios.php
+RewriteRule ^registro/?$        registro-usuarios.php
+RewriteRule ^error404/?$        404.php
+
+
+
+##### Enlaces pesonalizados
+RewriteRule ^ficha/([a-zA-Z0-9_-]+)$ ficha.php?n=$1
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME}.php -f
+#RewriteRule ^(.*)$ $1.php
+######

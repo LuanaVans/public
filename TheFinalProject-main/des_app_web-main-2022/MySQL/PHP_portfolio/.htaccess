@@ -1,0 +1,11 @@
+#https://desarrolloweb.com/articulos/mas-ejemplos-reglas-htaccess.html
+
+
+##### Enlaces pesonalizados
+RewriteRule ^proyecto/([a-zA-Z0-9_-]+)$ ficha.php?s=$1
+
+# Quita las extesnioens .php y .html
+ RewriteEngine On
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteRule ^([^\.]+)$ $1.php [NC,L]
+ RewriteRule ^([^\.]+)$ $1.html [NC,L]
